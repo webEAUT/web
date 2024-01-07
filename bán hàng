@@ -7596,31 +7596,6 @@ Với sự đa dạng về các...</p>
     <div class="info-title">Các thông tin khác</div>
 <div class="info-content">
 <div class="block">
-<div class="block-title"><strong> VỀ KIDSPLAZA</strong></div>
-<div class="block-content">
-<ul>
-<li class="item"><a href="https://www.kidsplaza.vn/gioi-thieu-kidsplaza" target="_blank" rel="nofollow noopener">Giới thiệu KidsPlaza</a></li>
-<li class="item"><a href="https://www.kidsplaza.vn/he-thong-cua-hang.html" target="_blank" rel="nofollow noopener">Danh sách cửa hàng</a></li>
-<li class="item"><a href="https://www.kidsplaza.vn/blog/tin-ve-kids-plaza/bao-chi-noi-ve-chung-toi" target="_blank" rel="nofollow noopener">Báo chí nói về chúng tôi</a></li>
-<li class="item"><a href="https://www.kidsplaza.vn/blog" target="_blank" rel="nofollow noopener">Kiến thức nuôi con</a></li>
-<li class="item"><a href="https://vieclam.kidsplaza.vn/" target="_blank" rel="nofollow noopener">Tuyển dụng</a></li>
-<li class="item"><a href="https://www.kidsplaza.vn/chinh-sach-bao-mat" target="_blank" rel="nofollow noopener">Chính sách bảo mật</a></li>
-</ul>
-</div>
-</div>
-<div class="block">
-<div class="block-title"><strong>CHĂM SÓC KHÁCH HÀNG</strong></div>
-<div class="block-content">
-<ul>
-<li class="item"><a href="https://www.kidsplaza.vn/quy-dinh-doi-tra-hang" target="_blank" rel="nofollow noopener">Quy định đổi trả hàng</a></li>
-<li class="item"><a href="https://www.kidsplaza.vn/phuong-thuc-thanh-toan" target="_blank" rel="nofollow noopener">Phương thức thanh toán</a></li>
-<li class="item"><a href="https://www.kidsplaza.vn/phuong-thuc-giao-hang" target="_blank" rel="nofollow noopener">Phương thức giao hàng</a></li>
-<li class="item"><a href="https://lophoctiensan.kidsplaza.vn/" target="_blank" rel="nofollow noopener">Lớp học tiền sản miễn phí</a></li>
-<li class="item"><a href="https://lopandam.kidsplaza.vn/" target="_blank" rel="nofollow noopener">Lớp học ăn dặm miễn phí</a></li>
-<li class="item"><a href="https://www.kidsplaza.vn/lien-he" target="_blank" rel="nofollow noopener">Gửi góp ý / Khiếu nại</a></li>
-<li class="item"><a href="https://www.kidsplaza.vn/chinh-sach-bao-hanh" target="_blank" rel="nofollow noopener">Chính sách bảo hành</a></li>
-<li class="item"><a href="https://www.kidsplaza.vn/hoi-dap.html" target="_blank" rel="nofollow noopener">Câu hỏi thường gặp</a></li>
-</ul>
 </div>
 </div>
 </div></div>
@@ -7661,16 +7636,13 @@ Với sự đa dạng về các...</p>
 .block-content-left {
     margin-right: 1rem;
 }
-
 .block-content-right {
     display: flex;
     flex-flow: column;
 }
-
 .block-content-right>a {
     line-height: 3rem;
 }
-
 .footer-app .app-content {
     margin: 0;
 }
@@ -7682,7 +7654,6 @@ Với sự đa dạng về các...</p>
     data-bind="scope:'msp-recaptcha-58312e2256fb5bcda606e9b5046e00ef'"
 >   
 </div>
-
 <script type="text/javascript">
     require(['jquery', 'domReady!'], function ($) {
         $('#msp-recaptcha-58312e2256fb5bcda606e9b5046e00ef-container')
