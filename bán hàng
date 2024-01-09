@@ -70,7 +70,7 @@
         if (match) return decodeURIComponent(match[1].replace(/\+/g, ' '));
     };
 
-    window.dataLayer = window.dataLayer || [];
+    window.dataLayer = window.dataLayer || [];y
 
         window.addEventListener('load', (event) => {
         for (var i in dlObjects) {
@@ -117,10 +117,10 @@
         }
     });
     </script>
-    <!--  Web Insight V2 script -->
+  
     <script type = "text/javascript" >
- var _portalId = "564889152"; // Your Portal ID
-        var _propId = "564990546"; // Your Website Property ID
+ var _portalId = "564889152"; 
+        var _propId = "564990546"; 
         (function() {
             var w = window;
             if (w.web_event) return;
@@ -165,7 +165,7 @@
         fbq('init', '717758208292927');
         fbq('track', 'PageView');
     </script>
-<!-- End Facebook Pixel Code -->
+
     <link rel="next" href="https://www.kidsplaza.vn/thoi-trang-va-phu-kien.html?p=2" />
 </head>
     <body data-container="body"
@@ -218,14 +218,12 @@
     })();
 </script><div class="widget block block-static-block">
     </div>
-<!-- Facebook Pixel Code -->
+
     <noscript>
         <img height="1" width="1" style="display:none"
              src="https://www.facebook.com/tr?id='717758208292927'&ev=PageView&noscript=1"/>
     </noscript>
-<!-- End Facebook Pixel Code -->
-<!-- Global Site Tag (gtag.js)-->
-    <!-- Global Site Tag (gtag.js) - Google Ads: 123456789 -->
+
     <script defer src="https://www.googletagmanager.com/gtag/js?id=AW-1234466"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -235,14 +233,14 @@
         gtag('config', 'AW-1234466');
     </script>
 
-<!-- End Google Tag Re-Marketing -->
+
 <div class="page-wrapper"><div class="panel wrapper"><div class="panel header"><a class="action skip contentarea"
    href="#contentarea">
     <span>
         Chuyển đến nội dung    </span>
 </a>
 <div id="regional-selector-content" data-bind="scope:'regional-selector-content'">
-    <!-- ko template: getTemplate() --><!-- /ko -->
+
     <script type="text/x-magento-init">
     {
         "#regional-selector-content": {
@@ -264,12 +262,12 @@
 
 <div class="header right">
     <div class="store-system">
-        <a class="store-system-link" href="https://www.kidsplaza.vn/he-thong-cua-hang.html"> <!--TODO: Change attribute href-->
+        <a class="store-system-link" href="https://www.kidsplaza.vn/he-thong-cua-hang.html"> 
             <span class="store-system-span">Hệ thống 157 cửa hàng</span>
         </a>
     </div>
     <div class="hotline-header">
-        <a class="hotline-link" href="tel:1800.6608"> <!--TODO: Change attribute href-->
+        <a class="hotline-link" href="tel:1800.6608"> 
             <span class="hotline-span">Hotline: 1800.6608</span>
         </a>
     </div>
@@ -350,18 +348,15 @@
     <a class="action showcart" href="https://www.kidsplaza.vn/checkout/cart/"
        data-bind="scope: 'minicart_content'">
         <span class="text">Giỏ hàng của tôi</span>
-        <!-- ko if: getCountItems() -->
+
             <span class="counter qty empty"
                   data-bind="css: { empty: !!getCartParam('summary_count') == false && !isLoading() }, blockLoader: isLoading">
-                <span class="counter-number"><!-- ko text: getCountItems() --><!-- /ko --></span>
+                <span class="counter-number"></span>
                 <span class="counter-label">
-                <!-- ko if: getCountItems() -->
-                    <!-- ko text: getCountItems() --><!-- /ko -->
-                    <!-- ko i18n: 'items' --><!-- /ko -->
-                    <!-- /ko -->
+                
                 </span>
             </span>
-        <!-- /ko -->
+ 
     </a>
                 <div class="block block-minicart"
                  data-role="dropdownDialog"
@@ -375,7 +370,7 @@
                     "parentClass":"active",
                     "buttons":[]}}'>
                 <div id="minicart-content-wrapper" data-bind="scope: 'minicart_content'">
-                    <!-- ko template: getTemplate() --><!-- /ko -->
+
                 </div>
                             </div>
             <div class="block block-notify-added">
@@ -419,7 +414,7 @@
 }
 </script>
 <div data-block="account" class="account-wrapper ">
-    <a class="action showaccount" href="#"> <!--TODO: Change attribute href-->
+    <a class="action showaccount" href="#"> 
                 <span class="text">Đăng nhập Đăng ký</span>
             </a>
     <div class="block block-account"
@@ -685,7 +680,7 @@
     id="msp-recaptcha-d84b65fc916e7398083ea5f17089d8f1-container"
     data-bind="scope:'msp-recaptcha-d84b65fc916e7398083ea5f17089d8f1'"
 >
-    <!-- ko template: getTemplate() --><!-- /ko -->
+
 </div>
 
 <script type="text/x-magento-init">
@@ -1170,8 +1165,6 @@ Với sự đa dạng về các...</p>
                     </div>
                 </div>
             </div>
-
-            <!-- ko template: getTemplate() --><!-- /ko -->
             <script type="text/x-magento-init">
             {
                 "#catalog-category-product-highlight-content": {
@@ -1209,7 +1202,6 @@ Với sự đa dạng về các...</p>
     <script>
         window.authenticationPopup = {"autocomplete":"off","customerRegisterUrl":"https:\/\/www.kidsplaza.vn\/customer\/account\/create\/","customerForgotPasswordUrl":"https:\/\/www.kidsplaza.vn\/customer\/account\/forgotpassword\/","baseUrl":"https:\/\/www.kidsplaza.vn\/"};
     </script>
-    <!-- ko template: getTemplate() --><!-- /ko -->
     <script type="text/x-magento-init">
         {
             "#authenticationPopup": {
