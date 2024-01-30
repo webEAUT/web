@@ -1,0 +1,1857 @@
+    <!DOCTYPE html>
+    <html lang="vi">
+        <head>
+            <title>Phim Mới | Phim HD | Xem phim nhanh | Phim VietSub | Thuyết Minh Hay Nhất</title>
+            <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+            <meta http-equiv="content-language" content="vi"/>
+            <meta content="width=device-width, initial-scale=1.0, user-scalable=yes" name="viewport"/>
+            <meta name="keywords" content="Phim Trung Quốc, Phim Hàn Quốc, Phim chiếu rạp, Phim hành động, Phim kinh di, Phim hài, Phim hoạt hình, Phim Mỹ, Phim Võ Thuật, Phim bộ hay nhất, Xem phim Online"/>
+            <meta name="description" content="Phim Mới chất lượng cao miễn phí. Xem phim hd VietSub. Phim thuyết minh chất lượng HD. Kho phimmoi.net chuẩn nhanh online hay hấp dẫn."/>
+            <meta name="revisit-after" content="1 days">
+            <meta name="ROBOTS" content="index,follow"/>
+            <meta name="googlebot" content="index,follow"/>
+            <meta name="BingBOT" content="index,follow"/>
+            <meta name="yahooBOT" content="index,follow"/>
+            <meta name="slurp" content="index,follow"/>
+            <meta name="msnbot" content="index,follow"/>
+            <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"/>
+            <meta name="theme-color" content="#ff8a00"/>
+            <meta property="og:site_name" content="PhimMoi"/>
+            <meta property="og:locale" content="vi_VN"/>
+            <meta property="og:title" content="Phim Mới | Phim HD | Xem phim nhanh | Phim VietSub | Thuyết Minh Hay Nhất">
+            <meta property="og:description" content="Phim Mới chất lượng cao miễn phí. Xem phim hd VietSub. Phim thuyết minh chất lượng HD. Kho phimmoi.net chuẩn nhanh online hay hấp dẫn.">
+            <meta property="og:type" content="website">
+            <meta property="og:url" content="https://phimmoichillm.net/">
+            <meta property="fb:app_id" content="1057881674616601"/>
+            <meta name="twitter:card" content="summary"/>
+            <meta name="twitter:title" content="Phim Mới | Phim HD | Xem phim nhanh | Phim VietSub | Thuyết Minh Hay Nhất"/>
+            <meta name="twitter:description" content="Phim Mới chất lượng cao miễn phí. Xem phim hd VietSub. Phim thuyết minh chất lượng HD. Kho phimmoi.net chuẩn nhanh online hay hấp dẫn."/>
+            <base href="https://phimmoichillm.net/"/>
+            <script>
+                var base_url = 'https://phimmoichillm.net/';
+                var is_login = '';
+                var MAIN_URL = "https://phimmoichillm.net";
+            </script>
+            <link rel="canonical" href="https://phimmoichillm.net/"/>
+            <link href='https://fonts.googleapis.com/css?family=Roboto:400,300,500&display=swap' rel='stylesheet' type='text/css'>
+            <link rel="stylesheet" type="text/css" href="https://phimmoichillm.net/dev/bootstrap/css/bootstrap.min.css" as="style" rel="preload"/>
+            <link rel="stylesheet" type="text/css" href="https://phimmoichillm.net/dev/css/can-toggle.css?v=1.0" as="style" rel="preload">
+            <link rel="stylesheet" type="text/css" href="https://phimmoichillm.net/dev/css/font-awesome.min.css" rel="preload" as="font"/>
+            <link rel="stylesheet" type="text/css" href="https://phimmoichillm.net/dev/css/owl.carousel.css" rel="preconnect"/>
+            <link rel="stylesheet" type="text/css" href="https://phimmoichillm.net/dev/css/mainpmchill.css" as="style" rel="preload"/>
+            <link rel="stylesheet" type="text/css" href="https://phimmoichillm.net/dev/css/responsive.css" as="style" rel="preload"/>
+            <script type="text/javascript" src="https://phimmoichillm.net/dev/js/jquery-1.11.1.min.js"></script>
+            <script defer type="text/javascript" src="https://phimmoichillm.net/dev/js/global.js"></script>
+            <script defer type="text/javascript" src="https://phimmoichillm.net/dev/bootstrap/js/bootstrap.min.js"></script>
+            <script defer type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+            <script defer type="text/javascript" src="https://phimmoichillm.net/dev/js/lazyz.min.js"></script>
+            <script defer type="text/javascript" src="https://phimmoichillm.net/dev/js/functions.js"></script>
+            <script defer type="text/javascript" src="https://phimmoichillm.net/dev/js/action.js"></script>
+            <link rel='dns-prefetch' href='//fonts.googleapis.com'/>
+            <link href='https://fonts.gstatic.com' crossorigin rel='preconnect'/>
+            <style>
+                @media only screen and (max-width: 1025px) {
+                    .hidemobile {
+                        display: none !important;
+                    }
+                }
+
+                @media only screen and (min-width: 1026px) {
+                    .hidedesktop {
+                        display:none!important;
+                    }
+                }
+
+                .off a {
+                    background: #01AEF0;
+                    padding: 0px 7px;
+                    color: #FFF;
+                }
+            </style>
+        </head>
+        <body>
+            <div id="header">
+                <div class="container">
+                    <div id="logo" style="margin:0;">
+                        <a href="https://phimmoichillm.net" title="Phim Mới">
+                            <img src="https://phimmoichillm.net/dev/images/logo.png" alt="phimmoi"/>
+                        </a>
+                    </div>
+                    <ul id="main-menu">
+                        <li>
+                            <a title="PhimMoi" href="https://phimmoichillm.net">PhimMoi</a>
+                        </li>
+                        <li>
+                            <a title="Phim lẻ" href="/list/phim-le">Phim lẻ</a>
+                        </li>
+                        <li>
+                            <a title="Phim bộ" href="/list/phim-bo">Phim bộ</a>
+                        </li>
+                        <li>
+                            <a title="Thể Loại Phim" href="javascript:void(0)" rel="nofollow">Thể Loại</a>
+                            <ul class="sub-menu span-6">
+                                <li>
+                                    <a class="sub-menu-link" href="https://phimmoichillm.net/genre/phim-hanh-dong">Phim Hành Động</a>
+                                </li>
+                                <li>
+                                    <a class="sub-menu-link" href="https://phimmoichillm.net/genre/phim-vo-thuat">Phim Võ Thuật</a>
+                                </li>
+                                <li>
+                                    <a class="sub-menu-link" href="https://phimmoichillm.net/genre/phim-tinh-cam">Phim Tình Cảm</a>
+                                </li>
+                                <li>
+                                    <a class="sub-menu-link" href="https://phimmoichillm.net/genre/phim-hoat-hinh">Phim Hoạt Hình</a>
+                                </li>
+                                <li>
+                                    <a class="sub-menu-link" href="https://phimmoichillm.net/genre/phim-hai-huoc">Phim Hài Hước</a>
+                                </li>
+                                <li>
+                                    <a class="sub-menu-link" href="https://phimmoichillm.net/genre/phim-vien-tuong">Phim Viễn Tưởng</a>
+                                </li>
+                                <li>
+                                    <a class="sub-menu-link" href="https://phimmoichillm.net/genre/phim-co-trang">Phim Cổ Trang</a>
+                                </li>
+                                <li>
+                                    <a class="sub-menu-link" href="https://phimmoichillm.net/genre/phim-phieu-luu">Phim Phiêu Lưu</a>
+                                </li>
+                                <li>
+                                    <a class="sub-menu-link" href="https://phimmoichillm.net/genre/phim-tam-ly">Phim Tâm Lý</a>
+                                </li>
+                                <li>
+                                    <a class="sub-menu-link" href="https://phimmoichillm.net/genre/phim-khoa-hoc">Phim Khoa Học</a>
+                                </li>
+                                <li>
+                                    <a class="sub-menu-link" href="https://phimmoichillm.net/genre/phim-hinh-su">Phim Hình Sự</a>
+                                </li>
+                                <li>
+                                    <a class="sub-menu-link" href="https://phimmoichillm.net/genre/phim-ma-kinh-di">Phim Ma - Kinh Dị</a>
+                                </li>
+                                <li>
+                                    <a class="sub-menu-link" href="https://phimmoichillm.net/genre/phim-chien-tranh">Phim Chiến Tranh</a>
+                                </li>
+                                <li>
+                                    <a class="sub-menu-link" href="https://phimmoichillm.net/genre/phim-am-nhac">Phim Âm Nhạc</a>
+                                </li>
+                                <li>
+                                    <a class="sub-menu-link" href="https://phimmoichillm.net/genre/phim-the-thao">Phim Thể Thao</a>
+                                </li>
+                                <li>
+                                    <a class="sub-menu-link" href="https://phimmoichillm.net/genre/phim-than-thoai">Phim Thần Thoại</a>
+                                </li>
+                                <li>
+                                    <a class="sub-menu-link" href="https://phimmoichillm.net/genre/game-show">Game show</a>
+                                </li>
+                                <li>
+                                    <a class="sub-menu-link" href="https://phimmoichillm.net/genre/phim-truyen-hinh">Phim Truyền Hình</a>
+                                </li>
+                                <li>
+                                    <a class="sub-menu-link" href="https://phimmoichillm.net/genre/phim-chieu-rap">Phim Chiếu Rạp</a>
+                                </li>
+                                <li>
+                                    <a class="sub-menu-link" href="https://phimmoichillm.net/genre/phim-anime">Phim Anime</a>
+                                </li>
+                                <li>
+                                    <a class="sub-menu-link" href="https://phimmoichillm.net/genre/phim-sap-chieu">Phim Sắp Chiếu</a>
+                                </li>
+                                <li>
+                                    <a class="sub-menu-link" href="https://phimmoichillm.net/genre/phim-thuyet-minh">Phim Thuyết Minh</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a title="Quốc Gia" href="javascript:void(0)" rel="nofollow">Quốc Gia</a>
+                            <ul class="sub-menu">
+                                <li>
+                                    <a class="sub-menu-link" href="https://phimmoichillm.net/country/phim-trung-quoc">Phim Trung Quốc</a>
+                                </li>
+                                <li>
+                                    <a class="sub-menu-link" href="https://phimmoichillm.net/country/phim-han-quoc">Phim Hàn Quốc</a>
+                                </li>
+                                <li>
+                                    <a class="sub-menu-link" href="https://phimmoichillm.net/country/phim-nhat-ban">Phim Nhật Bản</a>
+                                </li>
+                                <li>
+                                    <a class="sub-menu-link" href="https://phimmoichillm.net/country/phim-au-my">Phim Âu Mỹ</a>
+                                </li>
+                                <li>
+                                    <a class="sub-menu-link" href="https://phimmoichillm.net/country/phim-thai-lan">Phim Thái Lan</a>
+                                </li>
+                                <li>
+                                    <a class="sub-menu-link" href="https://phimmoichillm.net/country/phim-dai-loan">Phim Đài Loan</a>
+                                </li>
+                                <li>
+                                    <a class="sub-menu-link" href="https://phimmoichillm.net/country/phim-tong-hop">Phim Tổng Hợp</a>
+                                </li>
+                                <li>
+                                    <a class="sub-menu-link" href="https://phimmoichillm.net/country/phim-hong-kong">Phim Hồng Kông</a>
+                                </li>
+                                <li>
+                                    <a class="sub-menu-link" href="https://phimmoichillm.net/country/phim-an-do">Phim Ấn Độ</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                        <li>
+                            <a title="Năm Phát Hành" href="javascript:void(0)" rel="nofollow">Năm Phát Hành</a>
+                            <ul class="sub-menu">
+                                <li>
+                                    <span class="icon"></span>
+                                    <a class="sub-menu-link" href="https://phimmoichillm.net/list/phim-nam-2024">Phim 2024</a>
+                                </li>
+                                <li>
+                                    <span class="icon"></span>
+                                    <a class="sub-menu-link" href="https://phimmoichillm.net/list/phim-nam-2023">Phim 2023</a>
+                                </li>
+                                <li>
+                                    <span class="icon"></span>
+                                    <a class="sub-menu-link" href="https://phimmoichillm.net/list/phim-nam-2022">Phim 2022</a>
+                                </li>
+                                <li>
+                                    <span class="icon"></span>
+                                    <a class="sub-menu-link" href="https://phimmoichillm.net/list/phim-nam-2021">Phim 2021</a>
+                                </li>
+                                <li>
+                                    <span class="icon"></span>
+                                    <a class="sub-menu-link" href="https://phimmoichillm.net/list/phim-nam-2020">Phim 2020</a>
+                                </li>
+                                <li>
+                                    <span class="icon"></span>
+                                    <a class="sub-menu-link" href="https://phimmoichillm.net/list/phim-nam-2019">Phim 2019</a>
+                                </li>
+                                <li>
+                                    <span class="icon"></span>
+                                    <a class="sub-menu-link" href="https://phimmoichillm.net/list/phim-nam-2018">Phim 2018</a>
+                                </li>
+                                <li>
+                                    <span class="icon"></span>
+                                    <a class="sub-menu-link" href="https://phimmoichillm.net/list/phim-nam-2017">Phim 2017</a>
+                                </li>
+                                <li>
+                                    <span class="icon"></span>
+                                    <a class="sub-menu-link" href="https://phimmoichillm.net/list/phim-nam-2016">Phim 2016</a>
+                                </li>
+                                <li>
+                                    <span class="icon"></span>
+                                    <a class="sub-menu-link" href="https://phimmoichillm.net/list/phim-nam-2015">Phim 2015</a>
+                                </li>
+                                <li>
+                                    <span class="icon"></span>
+                                    <a class="sub-menu-link" href="https://phimmoichillm.net/list/phim-nam-2014">Phim 2014</a>
+                                </li>
+                                <li>
+                                    <span class="icon"></span>
+                                    <a class="sub-menu-link" href="https://phimmoichillm.net/list/phim-nam-2013">Phim 2013</a>
+                                </li>
+                                <li>
+                                    <span class="icon"></span>
+                                    <a class="sub-menu-link" href="https://phimmoichillm.net/list/phim-nam-2012">Phim 2012</a>
+                                </li>
+                                <li>
+                                    <span class="icon"></span>
+                                    <a class="sub-menu-link" href="https://phimmoichillm.net/list/phim-nam-2011">Phim 2011</a>
+                                </li>
+                                <li>
+                                    <span class="icon"></span>
+                                    <a class="sub-menu-link" href="https://phimmoichillm.net/list/phim-nam-2010">Phim 2010</a>
+                                </li>
+                                <li>
+                                    <span class="icon"></span>
+                                    <a class="sub-menu-link" href="https://phimmoichillm.net/list/phim-nam-2009">Phim 2009</a>
+                                </li>
+                                <li>
+                                    <span class="icon"></span>
+                                    <a class="sub-menu-link" href="https://phimmoichillm.net/list/phim-nam-2008">Phim 2008</a>
+                                </li>
+                                <li>
+                                    <span class="icon"></span>
+                                    <a class="sub-menu-link" href="https://phimmoichillm.net/list/phim-truoc-2007">Phim trước 2007</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a title="Phim chiếu rạp" href="/genre/phim-chieu-rap">Phim chiếu rạp</a>
+                        </li>
+                        <li>
+                            <a title="Phim sắp chiếu" href="/genre/phim-sap-chieu">Trailer</a>
+                        </li>
+                        <li class="vip">
+                            <a title="Top Phim" href="javascript:void(0)" rel="nofollow">Top Phim</a>
+                            <ul class="sub-menu">
+                                <li>
+                                    <a title="Phim top imdb" href="/list/top-imdb">Top IMDB</a>
+                                </li>
+                                <li>
+                                    <a title="Phim hot" href="/list/phim-hot">Phim hot</a>
+                                </li>
+                                <li>
+                                    <a title="Phim Netflix" href="/list/phim-netflix">Phim Netflix</a>
+                                </li>
+                                <li>
+                                    <a title="Phim DC Comic" href="/list/phim-dc">Phim DC Comic</a>
+                                </li>
+                                <li>
+                                    <a title="Phim Marvel" href="/list/phim-marvel">Phim Marvel</a>
+                                </li>
+                                <li>
+                                    <a title="Phim HD" href="/list/phim-hd">Phim HD</a>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <form method="GET" id="form-search" class="form-search" action="tim-kiem/">
+                        <input placeholder="Tìm tên phim, diễn viên..." value="" type="text" name="keyword"/>
+                        <i id="searchsubmit" class="fa fa-search" value=" " type="submit"></i>
+                        <!--div style="display: none;" id="suggestions" class="top-search-box"> <ul id="ketqua" style="z-index: 100; display: block;" class="autocomplete-list"></ul> </div-->
+                    </form>
+                </div>
+            </div>
+            <div id="mobile-header">
+                <div class="btn-humber"></div>
+                <a class="logo" href="/" title="Phim Mới">
+                    <img data-cfsrc="https://phimmoichillm.net/dev/images/logo.png" alt="phimmoi" src="https://phimmoichillm.net/dev/images/logo.png">
+                </a>
+                <i class="fa fa-search btn-search" onclick="$('.mobile-search-bar').removeClass('hide');$('#keyword').focus();"></i>
+                <div class="mobile-search-bar hide">
+                    <form id="mobile-form_search" action="javascript:MakeSearch();">
+                        <input name="keyword" id="keyword" value="" type="text" type="text" placeholder="Tìm kiếm...">
+                        <!--div style="display: block;" id="suggestions" class="msuggestions top-search-box"> <ul id="mketqua" style="z-index: 100; display: block;" class="autocomplete-list"> </ul> </div-->
+                    </form>
+                    <i class="fa fa-times close-button" onclick="$('.mobile-search-bar').addClass('hide')"></i>
+                </div>
+            </div>
+            <div id="bswrapper_inhead"></div>
+            <div id="menu-mobile" class="">
+                <ul>
+                    <li>
+                        <a title="PhimMoi" href="/">
+                            <span>PhimMoi</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a title="Phim bộ" href="/list/phim-bo">
+                            <span>Phim bộ</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a title="Phim lẻ" href="/list/phim-le">
+                            <span>Phim lẻ</span>
+                        </a>
+                    </li>
+                    <li class="parent-menu">
+                        <a title="Thể Loại Phim" id="menu" href="javascript:void(0)" rel="nofollow">
+                            Thể Loại <i class="fa fa-angle-down"></i>
+                        </a>
+                        <ul class="sub-menu span-6" style="display: none;">
+                            <li>
+                                <a class="sub-menu-link" href="https://phimmoichillm.net/genre/phim-hanh-dong">Phim Hành Động</a>
+                            </li>
+                            <li>
+                                <a class="sub-menu-link" href="https://phimmoichillm.net/genre/phim-vo-thuat">Phim Võ Thuật</a>
+                            </li>
+                            <li>
+                                <a class="sub-menu-link" href="https://phimmoichillm.net/genre/phim-tinh-cam">Phim Tình Cảm</a>
+                            </li>
+                            <li>
+                                <a class="sub-menu-link" href="https://phimmoichillm.net/genre/phim-hoat-hinh">Phim Hoạt Hình</a>
+                            </li>
+                            <li>
+                                <a class="sub-menu-link" href="https://phimmoichillm.net/genre/phim-hai-huoc">Phim Hài Hước</a>
+                            </li>
+                            <li>
+                                <a class="sub-menu-link" href="https://phimmoichillm.net/genre/phim-vien-tuong">Phim Viễn Tưởng</a>
+                            </li>
+                            <li>
+                                <a class="sub-menu-link" href="https://phimmoichillm.net/genre/phim-co-trang">Phim Cổ Trang</a>
+                            </li>
+                            <li>
+                                <a class="sub-menu-link" href="https://phimmoichillm.net/genre/phim-phieu-luu">Phim Phiêu Lưu</a>
+                            </li>
+                            <li>
+                                <a class="sub-menu-link" href="https://phimmoichillm.net/genre/phim-tam-ly">Phim Tâm Lý</a>
+                            </li>
+                            <li>
+                                <a class="sub-menu-link" href="https://phimmoichillm.net/genre/phim-khoa-hoc">Phim Khoa Học</a>
+                            </li>
+                            <li>
+                                <a class="sub-menu-link" href="https://phimmoichillm.net/genre/phim-hinh-su">Phim Hình Sự</a>
+                            </li>
+                            <li>
+                                <a class="sub-menu-link" href="https://phimmoichillm.net/genre/phim-ma-kinh-di">Phim Ma - Kinh Dị</a>
+                            </li>
+                            <li>
+                                <a class="sub-menu-link" href="https://phimmoichillm.net/genre/phim-chien-tranh">Phim Chiến Tranh</a>
+                            </li>
+                            <li>
+                                <a class="sub-menu-link" href="https://phimmoichillm.net/genre/phim-am-nhac">Phim Âm Nhạc</a>
+                            </li>
+                            <li>
+                                <a class="sub-menu-link" href="https://phimmoichillm.net/genre/phim-the-thao">Phim Thể Thao</a>
+                            </li>
+                            <li>
+                                <a class="sub-menu-link" href="https://phimmoichillm.net/genre/phim-than-thoai">Phim Thần Thoại</a>
+                            </li>
+                            <li>
+                                <a class="sub-menu-link" href="https://phimmoichillm.net/genre/game-show">Game show</a>
+                            </li>
+                            <li>
+                                <a class="sub-menu-link" href="https://phimmoichillm.net/genre/phim-truyen-hinh">Phim Truyền Hình</a>
+                            </li>
+                            <li>
+                                <a class="sub-menu-link" href="https://phimmoichillm.net/genre/phim-chieu-rap">Phim Chiếu Rạp</a>
+                            </li>
+                            <li>
+                                <a class="sub-menu-link" href="https://phimmoichillm.net/genre/phim-anime">Phim Anime</a>
+                            </li>
+                            <li>
+                                <a class="sub-menu-link" href="https://phimmoichillm.net/genre/phim-sap-chieu">Phim Sắp Chiếu</a>
+                            </li>
+                            <li>
+                                <a class="sub-menu-link" href="https://phimmoichillm.net/genre/phim-thuyet-minh">Phim Thuyết Minh</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="parent-menu">
+                        <a title="Quốc Gia" id="menu" href="javascript:void(0)" rel="nofollow">
+                            Quốc Gia <i class="fa fa-angle-down"></i>
+                        </a>
+                        <ul class="sub-menu span-6" style="display: none;">
+                            <li>
+                                <a class="sub-menu-link" href="https://phimmoichillm.net/country/phim-trung-quoc">Phim Trung Quốc</a>
+                            </li>
+                            <li>
+                                <a class="sub-menu-link" href="https://phimmoichillm.net/country/phim-han-quoc">Phim Hàn Quốc</a>
+                            </li>
+                            <li>
+                                <a class="sub-menu-link" href="https://phimmoichillm.net/country/phim-nhat-ban">Phim Nhật Bản</a>
+                            </li>
+                            <li>
+                                <a class="sub-menu-link" href="https://phimmoichillm.net/country/phim-au-my">Phim Âu Mỹ</a>
+                            </li>
+                            <li>
+                                <a class="sub-menu-link" href="https://phimmoichillm.net/country/phim-thai-lan">Phim Thái Lan</a>
+                            </li>
+                            <li>
+                                <a class="sub-menu-link" href="https://phimmoichillm.net/country/phim-dai-loan">Phim Đài Loan</a>
+                            </li>
+                            <li>
+                                <a class="sub-menu-link" href="https://phimmoichillm.net/country/phim-tong-hop">Phim Tổng Hợp</a>
+                            </li>
+                            <li>
+                                <a class="sub-menu-link" href="https://phimmoichillm.net/country/phim-hong-kong">Phim Hồng Kông</a>
+                            </li>
+                            <li>
+                                <a class="sub-menu-link" href="https://phimmoichillm.net/country/phim-an-do">Phim Ấn Độ</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                    <li class="parent-menu">
+                        <a title="Năm Phát Hành" id="menu" href="javascript:void(0)" rel="nofollow">
+                            Năm Phát Hành <i class="fa fa-angle-down"></i>
+                        </a>
+                        <ul class="sub-menu span-6" style="display: none;">
+                            <li>
+                                <span class="icon"></span>
+                                <a class="sub-menu-link" href="https://phimmoichillm.net/list/phim-nam-2024">Phim 2024</a>
+                            </li>
+                            <li>
+                                <span class="icon"></span>
+                                <a class="sub-menu-link" href="https://phimmoichillm.net/list/phim-nam-2023">Phim 2023</a>
+                            </li>
+                            <li>
+                                <span class="icon"></span>
+                                <a class="sub-menu-link" href="https://phimmoichillm.net/list/phim-nam-2022">Phim 2022</a>
+                            </li>
+                            <li>
+                                <span class="icon"></span>
+                                <a class="sub-menu-link" href="https://phimmoichillm.net/list/phim-nam-2021">Phim 2021</a>
+                            </li>
+                            <li>
+                                <span class="icon"></span>
+                                <a class="sub-menu-link" href="https://phimmoichillm.net/list/phim-nam-2020">Phim 2020</a>
+                            </li>
+                            <li>
+                                <span class="icon"></span>
+                                <a class="sub-menu-link" href="https://phimmoichillm.net/list/phim-nam-2019">Phim 2019</a>
+                            </li>
+                            <li>
+                                <span class="icon"></span>
+                                <a class="sub-menu-link" href="https://phimmoichillm.net/list/phim-nam-2018">Phim 2018</a>
+                            </li>
+                            <li>
+                                <span class="icon"></span>
+                                <a class="sub-menu-link" href="https://phimmoichillm.net/list/phim-nam-2017">Phim 2017</a>
+                            </li>
+                            <li>
+                                <span class="icon"></span>
+                                <a class="sub-menu-link" href="https://phimmoichillm.net/list/phim-nam-2016">Phim 2016</a>
+                            </li>
+                            <li>
+                                <span class="icon"></span>
+                                <a class="sub-menu-link" href="https://phimmoichillm.net/list/phim-nam-2015">Phim 2015</a>
+                            </li>
+                            <li>
+                                <span class="icon"></span>
+                                <a class="sub-menu-link" href="https://phimmoichillm.net/list/phim-nam-2014">Phim 2014</a>
+                            </li>
+                            <li>
+                                <span class="icon"></span>
+                                <a class="sub-menu-link" href="https://phimmoichillm.net/list/phim-nam-2013">Phim 2013</a>
+                            </li>
+                            <li>
+                                <span class="icon"></span>
+                                <a class="sub-menu-link" href="https://phimmoichillm.net/list/phim-nam-2012">Phim 2012</a>
+                            </li>
+                            <li>
+                                <span class="icon"></span>
+                                <a class="sub-menu-link" href="https://phimmoichillm.net/list/phim-nam-2011">Phim 2011</a>
+                            </li>
+                            <li>
+                                <span class="icon"></span>
+                                <a class="sub-menu-link" href="https://phimmoichillm.net/list/phim-nam-2010">Phim 2010</a>
+                            </li>
+                            <li>
+                                <span class="icon"></span>
+                                <a class="sub-menu-link" href="https://phimmoichillm.net/list/phim-nam-2009">Phim 2009</a>
+                            </li>
+                            <li>
+                                <span class="icon"></span>
+                                <a class="sub-menu-link" href="https://phimmoichillm.net/list/phim-nam-2008">Phim 2008</a>
+                            </li>
+                            <li>
+                                <span class="icon"></span>
+                                <a class="sub-menu-link" href="https://phimmoichillm.net/list/phim-truoc-2007">Phim trước 2007</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                    <li>
+                        <a title="Phim chiếu rạp" href="/genre/phim-chieu-rap">Phim chiếu rạp
+    </span></a></li>
+    <li>
+        <a title="Trailer" href="/genre/phim-sap-chieu">
+    </i><span>Trailer</span>
+    </a></li>
+    <li class="parent-menu">
+        <a id="menu" title="Top Phim" href="javascript:void(0)" rel="nofollow">
+            Top Phim <i class="fa fa-angle-down"></i>
+        </a>
+        <ul class="sub-menu span-6" style="display: none;">
+            <li>
+                <a class="sub-menu-link" title="Phim top imdb" href="/list/top-imdb">Top IMDB</a>
+            </li>
+            <li>
+                <a class="sub-menu-link" title="Phim hot" href="/list/phim-hot">Phim hot</a>
+            </li>
+            <li>
+                <a class="sub-menu-link" title="Phim Netflix" href="/list/phim-netflix">Phim Netflix</a>
+            </li>
+            <li>
+                <a class="sub-menu-link" title="Phim DC Comic" href="/list/phim-dc">Phim DC Comic</a>
+            </li>
+            <li>
+                <a class="sub-menu-link" title="Phim Marvel" href="/list/phim-marvel">Phim Marvel</a>
+            </li>
+            <li>
+                <a class="sub-menu-link" title="Phim HD" href="/list/phim-hd">Phim HD</a>
+            </li>
+        </ul>
+    </li>
+    </ul></div><script>
+        var $menu = $("#menu-mobile");
+        var $over_lay = $('#overlay_menu');
+        var hw = $(window).height();
+        function set_height_menu() {}
+        function open_menu() {
+            $('body').addClass('menu-active');
+            $menu.addClass('expanded');
+            set_height_menu();
+            $(".btn-humber").addClass('active');
+        }
+        function close_menu() {
+            $('body').removeClass('menu-active');
+            $menu.removeClass('expanded');
+            var w_scroll_top = $(window).scrollTop();
+            if (w_scroll_top >= 50) {
+                pos_top_menu = 0;
+            } else {
+                pos_top_menu = w_scroll_top;
+            }
+            set_height_menu();
+            $(".btn-humber").removeClass('active');
+        }
+        $(document).ready(function() {
+            $(".btn-humber").click(function() {
+                if ($menu.hasClass('expanded')) {
+                    close_menu();
+                } else {
+                    open_menu();
+                }
+            });
+            $(window).scroll(function() {
+                set_height_menu();
+            });
+            $(".parent-menu").click(function(e) {
+                e.preventDefault();
+                $this = $(this);
+                $arrow = $this.find('.fa');
+                if ($arrow.length && event.target.className != 'sub-menu-link') {
+                    if ($arrow.hasClass('fa-angle-down')) {
+                        $arrow.removeClass('fa-angle-down').addClass('fa-angle-up');
+                    } else {
+                        $arrow.addClass('fa-angle-down').removeClass('fa-angle-up');
+                    }
+                    $this.find('.sub-menu').toggle();
+                    return false;
+                } else {
+                    var href = event.target.href;
+                    window.location.href = href;
+                }
+            });
+        });
+    </script>
+    <div id="chilladv" class="container">
+        <div id="headerpcads"></div>
+        <div id="headermbads"></div>
+    </div>
+    <!--div class="container" > <div id="topnc"></div> </div-->
+    <script type="application/ld+json">
+        {"@context": "http://schema.org", "@type": "Organization", "name": "PhimMoi", "alternateName": ["PhimMoi.Net", "PhimMoi Chính Thức", "Phim Mới", "Phim Moi"], "url": "https://phimmoichillm.net", "logo": "https://phimmoichillm.net/dev/images/logo.png"
+    }
+    </script>
+    <script type="application/ld+json">
+        {
+    "@context": "http://schema.org/",
+    "@type": "WebSite",
+    "name": "PhimMoi",
+    "alternateName": ["PhimMoi.Net", "PhimMoi Chính Thức", "Phim Mới", "Phim Moi"],
+    "description": "Phim Mới chất lượng cao miễn phí. Xem phim hd VietSub. Phim thuyết minh chất lượng HD. Kho phimmoi.net chuẩn nhanh online hay hấp dẫn.",
+    "keywords":["Phimmoi","Phimmoi.net","phimmoichill", "phimchill","xem phim","phim online"],
+    "url": "https://phimmoichillm.net/"
+    }
+    </script>
+    <div id="main-content">
+        <div id="content">
+            <div class="container">
+                <div class="block top-slide">
+                    <div class="heading">
+                        <h2 class="caption" title="Xem Phim">Phim Đề Cử</h2>
+                    </div>
+                    <ul id="film-hot" class="list-film">
+                        <li class="item">
+                            <span class="label">Tập 9 - Vietsub</span>
+                            <a title="Cô Đi Mà Lấy Chồng Tôi" href="https://phimmoichillm.net/info/co-di-ma-lay-chong-toi-pm15375">
+                                <img alt="Cô Đi Mà Lấy Chồng Tôi" class="lazyload" data-src="https://img.phimmoichillm.net/images/info/marry-my-husband.jpg" src="https://img.phimmoichillm.net/images/info/marry-my-husband.jpg"/>
+                                <p>Cô Đi Mà Lấy Chồng Tôi</p>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item">
+                            <span class="label">Hoàn Tất(8/8)</span>
+                            <a title="Dragons of Wonderhatch" href="https://phimmoichillm.net/info/dragons-of-wonderhatch-pm15527">
+                                <img alt="Dragons of Wonderhatch" class="lazyload" data-src="https://img.phimmoichillm.net/images/info/rong-cua-wonderhatch.jpg" src="https://img.phimmoichillm.net/images/info/rong-cua-wonderhatch.jpg"/>
+                                <p>Dragons of Wonderhatch</p>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item">
+                            <span class="label">
+                                <span class="film-format">HD | Vietsub</span>
+                            </span>
+                            <a title="Thợ Săn Hoang Mạc" href="https://phimmoichillm.net/info/tho-san-hoang-mac-pm15524">
+                                <img alt="Thợ Săn Hoang Mạc" class="lazyload" data-src="https://img.phimmoichillm.net/images/info/badland-hunters.jpg" src="https://img.phimmoichillm.net/images/info/badland-hunters.jpg"/>
+                                <p>Thợ Săn Hoang Mạc</p>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item">
+                            <span class="label">
+                                <span class="film-format">HD | Vietsub</span>
+                            </span>
+                            <a title="Aquaman 2 Và Vương Quốc Thất Lạc" href="https://phimmoichillm.net/info/aquaman-2-va-vuong-quoc-that-lac-pm9835">
+                                <img alt="Aquaman 2 Và Vương Quốc Thất Lạc" class="lazyload" data-src="https://img.phimmoichillm.net/images/info/aquaman-and-the-lost-kingdom-vietsub.jpg" src="https://img.phimmoichillm.net/images/info/aquaman-and-the-lost-kingdom-vietsub.jpg"/>
+                                <p>Aquaman 2 Và Vương Quốc Thất Lạc</p>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item">
+                            <span class="label">
+                                <span class="film-format">Tập 1091 | Vietsub</span>
+                            </span>
+                            <a title="One Piece Vua Hải Tặc" href="https://phimmoichillm.net/info/one-piece-phimmoi-c1-pm4063">
+                                <img alt="One Piece Vua Hải Tặc" class="lazyload" data-src="https://img.phimmoichillm.net/images/info/dao-hai-tac-hai-tac-mu-rom.jpg" src="https://img.phimmoichillm.net/images/info/dao-hai-tac-hai-tac-mu-rom.jpg"/>
+                                <p>One Piece Vua Hải Tặc</p>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item">
+                            <span class="label">Hoàn Tất(8/8)</span>
+                            <a title="Reacher (Phần 2)" href="https://phimmoichillm.net/info/reacher-phan-2-pm15331">
+                                <img alt="Reacher (Phần 2)" class="lazyload" data-src="https://img.phimmoichillm.net/images/info/reacher-season-2.jpg" src="https://img.phimmoichillm.net/images/info/reacher-season-2.jpg"/>
+                                <p>Reacher (Phần 2)</p>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item">
+                            <span class="label">
+                                <span class="film-format">HD | Vietsub</span>
+                            </span>
+                            <a title="The Marvels" href="https://phimmoichillm.net/info/the-marvels-pm14691">
+                                <img alt="The Marvels" class="lazyload" data-src="https://img.phimmoichillm.net/images/info/biet-doi-marvel.jpg" src="https://img.phimmoichillm.net/images/info/biet-doi-marvel.jpg"/>
+                                <p>The Marvels</p>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item">
+                            <span class="label">Hoàn Tất(10/10)</span>
+                            <a title="Monarch: Thế Giới Quái Thú" href="https://phimmoichillm.net/info/monarch-the-gioi-quai-thu-pm15295">
+                                <img alt="Monarch: Thế Giới Quái Thú" class="lazyload" data-src="https://img.phimmoichillm.net/images/info/monarch-legacy-of-monsters.jpg" src="https://img.phimmoichillm.net/images/info/monarch-legacy-of-monsters.jpg"/>
+                                <p>Monarch: Thế Giới Quái Thú</p>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item">
+                            <span class="label">Hoàn Tất (5/5)</span>
+                            <a title="Echo" href="https://phimmoichillm.net/info/echo-pm15415">
+                                <img alt="Echo" class="lazyload" data-src="https://img.phimmoichillm.net/images/info/sieu-anh-hung-echo.jpg" src="https://img.phimmoichillm.net/images/info/sieu-anh-hung-echo.jpg"/>
+                                <p>Echo</p>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item">
+                            <span class="label">
+                                <span class="film-format">HD | Vietsub</span>
+                            </span>
+                            <a title="Đế Chế Napoleon" href="https://phimmoichillm.net/info/de-che-napoleon-pm15218">
+                                <img alt="Đế Chế Napoleon" class="lazyload" data-src="https://img.phimmoichillm.net/images/info/napoleon.jpg" src="https://img.phimmoichillm.net/images/info/napoleon.jpg"/>
+                                <p>Đế Chế Napoleon</p>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item">
+                            <span class="label">
+                                <span class="film-format">HD | Vietsub</span>
+                            </span>
+                            <a title="Điệp Vụ Cuối Cùng" href="https://phimmoichillm.net/info/diep-vu-cuoi-cung-pm15402">
+                                <img alt="Điệp Vụ Cuối Cùng" class="lazyload" data-src="https://img.phimmoichillm.net/images/info/the-bricklayer.jpg" src="https://img.phimmoichillm.net/images/info/the-bricklayer.jpg"/>
+                                <p>Điệp Vụ Cuối Cùng</p>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item">
+                            <span class="label">Hoàn Tất(10/10)</span>
+                            <a title="Sinh Vật Gyeongseong" href="https://phimmoichillm.net/info/sinh-vat-gyeongseong-pm15341">
+                                <img alt="Sinh Vật Gyeongseong" class="lazyload" data-src="https://img.phimmoichillm.net/images/info/gyeongseong-creature.jpg" src="https://img.phimmoichillm.net/images/info/gyeongseong-creature.jpg"/>
+                                <p>Sinh Vật Gyeongseong</p>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item">
+                            <span class="label">Hoàn Tất (8/8)</span>
+                            <a title="Phi Vụ Triệu Đô: Berlin" href="https://phimmoichillm.net/info/phi-vu-trieu-do-berlin-pm15366">
+                                <img alt="Phi Vụ Triệu Đô: Berlin" class="lazyload" data-src="https://img.phimmoichillm.net/images/info/berlin-2023.jpg" src="https://img.phimmoichillm.net/images/info/berlin-2023.jpg"/>
+                                <p>Phi Vụ Triệu Đô: Berlin</p>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item">
+                            <span class="label">Hoàn Tất (9/9)</span>
+                            <a title="What If…? (Phần 2)" href="https://phimmoichillm.net/info/what-if-phan-2-pm15339">
+                                <img alt="What If…? (Phần 2)" class="lazyload" data-src="https://img.phimmoichillm.net/images/info/se-ra-sao-neu-season-2.jpg" src="https://img.phimmoichillm.net/images/info/se-ra-sao-neu-season-2.jpg"/>
+                                <p>What If…? (Phần 2)</p>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item">
+                            <span class="label">
+                                <span class="film-format">HD | Vietsub</span>
+                            </span>
+                            <a title="Bỗng Dưng Trúng Mánh" href="https://phimmoichillm.net/info/bong-dung-trung-manh-a1-pm15311">
+                                <img alt="Bỗng Dưng Trúng Mánh" class="lazyload" data-src="https://img.phimmoichillm.net/images/info/good-job.jpg" src="https://img.phimmoichillm.net/images/info/good-job.jpg"/>
+                                <p>Bỗng Dưng Trúng Mánh</p>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item">
+                            <span class="label">
+                                <span class="film-format">HD | Vietsub</span>
+                            </span>
+                            <a title="Rebel Moon - Phần Một: Người Con Của Lửa" href="https://phimmoichillm.net/info/rebel-moon-phan-mot-nguoi-con-cua-lua-pm15337">
+                                <img alt="Rebel Moon - Phần Một: Người Con Của Lửa" class="lazyload" data-src="https://img.phimmoichillm.net/images/info/rebel-moon-part-one-a-child-of-fire.jpg" src="https://img.phimmoichillm.net/images/info/rebel-moon-part-one-a-child-of-fire.jpg"/>
+                                <p>Rebel Moon - Phần Một: Người Con Của Lửa</p>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item">
+                            <span class="label">
+                                <span class="film-format">HD | Vietsub</span>
+                            </span>
+                            <a title="Đấu Trường Sinh Tử: Khúc Hát Của Chim Ca Và Rắn Độc" href="https://phimmoichillm.net/info/dau-truong-sinh-tu-khuc-hat-cua-chim-ca-va-ran-doc-pm15291">
+                                <img alt="Đấu Trường Sinh Tử: Khúc Hát Của Chim Ca Và Rắn Độc" class="lazyload" data-src="https://img.phimmoichillm.net/images/info/the-hunger-games-the-ballad-of-songbirds-and-snakes.jpg" src="https://img.phimmoichillm.net/images/info/the-hunger-games-the-ballad-of-songbirds-and-snakes.jpg"/>
+                                <p>Đấu Trường Sinh Tử: Khúc Hát Của Chim Ca Và Rắn Độc</p>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item">
+                            <span class="label">
+                                <span class="film-format">Tập 20 | Vietsub</span>
+                            </span>
+                            <a title="Chú Thuật Hồi Chiến (Phần 2)" href="https://phimmoichillm.net/info/chu-thuat-hoi-chien-phan-2-pm14774">
+                                <img alt="Chú Thuật Hồi Chiến (Phần 2)" class="lazyload" data-src="https://img.phimmoichillm.net/images/info/jujutsu-kaisen-season-2.jpg" src="https://img.phimmoichillm.net/images/info/jujutsu-kaisen-season-2.jpg"/>
+                                <p>Chú Thuật Hồi Chiến (Phần 2)</p>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item">
+                            <span class="label">
+                                <span class="film-format">HD | Vietsub</span>
+                            </span>
+                            <a title="Vầng Trăng Máu" href="https://phimmoichillm.net/info/vang-trang-mau-pm15155">
+                                <img alt="Vầng Trăng Máu" class="lazyload" data-src="https://img.phimmoichillm.net/images/info/killers-of-the-flower-moon.jpg" src="https://img.phimmoichillm.net/images/info/killers-of-the-flower-moon.jpg"/>
+                                <p>Vầng Trăng Máu</p>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item">
+                            <span class="label">Hoàn Tất (8/8)</span>
+                            <a title="Vigilante" href="https://phimmoichillm.net/info/vigilante-pm15273">
+                                <img alt="Vigilante" class="lazyload" data-src="https://img.phimmoichillm.net/images/info/canh-giac.jpg" src="https://img.phimmoichillm.net/images/info/canh-giac.jpg"/>
+                                <p>Vigilante</p>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item">
+                            <span class="label">Hoàn Tất (38/38)</span>
+                            <a title="Ninh An Như Mộng" href="https://phimmoichillm.net/info/ninh-an-nhu-mong-pm14565">
+                                <img alt="Ninh An Như Mộng" class="lazyload" data-src="https://img.phimmoichillm.net/images/info/story-of-kunning-palace.jpg" src="https://img.phimmoichillm.net/images/info/story-of-kunning-palace.jpg"/>
+                                <p>Ninh An Như Mộng</p>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item">
+                            <span class="label">Hoàn Tất (17/17)</span>
+                            <a title="Cuộc Chiến Sinh Tồn" href="https://phimmoichillm.net/info/cuoc-chien-sinh-ton-c1-pm15070">
+                                <img alt="Cuộc Chiến Sinh Tồn" class="lazyload" data-src="https://img.phimmoichillm.net/images/info/the-escape-of-the-seven-war-for-survival.jpg" src="https://img.phimmoichillm.net/images/info/the-escape-of-the-seven-war-for-survival.jpg"/>
+                                <p>Cuộc Chiến Sinh Tồn</p>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item">
+                            <span class="label">
+                                <span class="film-format">HD | Vietsub</span>
+                            </span>
+                            <a title="Kẻ Kiến Tạo" href="https://phimmoichillm.net/info/ke-kien-tao-pm15121">
+                                <img alt="Kẻ Kiến Tạo" class="lazyload" data-src="https://img.phimmoichillm.net/images/info/the-creator.jpg" src="https://img.phimmoichillm.net/images/info/the-creator.jpg"/>
+                                <p>Kẻ Kiến Tạo</p>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item">
+                            <span class="label">
+                                <span class="film-format">HD | Vietsub</span>
+                            </span>
+                            <a title="Thanh Gươm Trừ Tà" href="https://phimmoichillm.net/info/thanh-guom-tru-ta-b1-pm15104">
+                                <img alt="Thanh Gươm Trừ Tà" class="lazyload" data-src="https://img.phimmoichillm.net/images/info/dr-cheon-and-lost-talisman.jpg" src="https://img.phimmoichillm.net/images/info/dr-cheon-and-lost-talisman.jpg"/>
+                                <p>Thanh Gươm Trừ Tà</p>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item">
+                            <span class="label">
+                                <span class="film-format">HD | Vietsub</span>
+                            </span>
+                            <a title="Cú Máy Ăn Tiền" href="https://phimmoichillm.net/info/cu-may-an-tien-pm15168">
+                                <img alt="Cú Máy Ăn Tiền" class="lazyload" data-src="https://img.phimmoichillm.net/images/info/cobweb-2023.jpg" src="https://img.phimmoichillm.net/images/info/cobweb-2023.jpg"/>
+                                <p>Cú Máy Ăn Tiền</p>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item">
+                            <span class="label">
+                                <span class="film-format">HD | Vietsub</span>
+                            </span>
+                            <a title="Sát Thủ" href="https://phimmoichillm.net/info/sat-thu-pm15280">
+                                <img alt="Sát Thủ" class="lazyload" data-src="https://img.phimmoichillm.net/images/info/the-killer-2023.jpg" src="https://img.phimmoichillm.net/images/info/the-killer-2023.jpg"/>
+                                <p>Sát Thủ</p>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item">
+                            <span class="label">Hoàn Tất(6/6)</span>
+                            <a title="Loki Thần Lừa Lọc (Phần 2)" href="https://phimmoichillm.net/info/loki-s2-pm15138">
+                                <img alt="Loki Thần Lừa Lọc (Phần 2)" class="lazyload" data-src="https://img.phimmoichillm.net/images/info/loki-season-2.jpg" src="https://img.phimmoichillm.net/images/info/loki-season-2.jpg"/>
+                                <p>Loki Thần Lừa Lọc (Phần 2)</p>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item">
+                            <span class="label">
+                                <span class="film-format">HD | Vietsub</span>
+                            </span>
+                            <a title="Oppenheimer" href="https://phimmoichillm.net/info/oppenheimer-c1-pm14817">
+                                <img alt="Oppenheimer" class="lazyload" data-src="https://img.phimmoichillm.net/images/info/oppenheimer.jpg" src="https://img.phimmoichillm.net/images/info/oppenheimer.jpg"/>
+                                <p>Oppenheimer</p>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item">
+                            <span class="label">
+                                <span class="film-format">HD | Vietsub</span>
+                            </span>
+                            <a title="Ác Quỷ Ẩn Mình" href="https://phimmoichillm.net/info/ac-quy-an-minh-pm15272">
+                                <img alt="Ác Quỷ Ẩn Mình" class="lazyload" data-src="https://img.phimmoichillm.net/images/info/when-evil-lurks.jpg" src="https://img.phimmoichillm.net/images/info/when-evil-lurks.jpg"/>
+                                <p>Ác Quỷ Ẩn Mình</p>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item">
+                            <span class="label">Hoàn Tất(8/8)</span>
+                            <a title="Gen V" href="https://phimmoichillm.net/info/gen-v-d1-pm14870">
+                                <img alt="Gen V" class="lazyload" data-src="https://img.phimmoichillm.net/images/info/the-boys-presents-varsity.jpg" src="https://img.phimmoichillm.net/images/info/the-boys-presents-varsity.jpg"/>
+                                <p>Gen V</p>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="block">
+                    <div class="heading">
+                        <a href="list/phim-le">
+                            <h2 class="caption">Phim lẻ mới cập nhật</h2>
+                        </a>
+                        <a class="see-more" href="list/phim-le">
+                            Xem tất cả<i class="fa fa fa-caret-right"></i>
+                        </a>
+                        <ul class="sub-heading">
+                            <li>
+                                <a rel="nofollow" class="tab-filter" data-href="hanh-dong" href="javascript:void(0)">Hành động</a>
+                            </li>
+                            <li>
+                                <a rel="nofollow" class="tab-filter" data-href="hoat-hinh" href="javascript:void(0)">Hoạt hình</a>
+                            </li>
+                            <li>
+                                <a rel="nofollow" class="tab-filter" data-href="kinh-di" href="javascript:void(0)">Kinh dị</a>
+                            </li>
+                            <li>
+                                <a rel="nofollow" class="tab-filter" data-href="hai-huoc" href="javascript:void(0)">Hài hước</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <ul class="list-film horizontal">
+                        <li class="item large">
+                            <span class="label">HD-Vietsub</span>
+                            <a title="Tiếng Ồn Đen - Black Noise" href="https://phimmoichillm.net/info/tieng-on-den-pm15532">
+                                <img width="485px" height="273px" class="img-1 lazyload" alt="Tiếng Ồn Đen - Black Noise" data-src="https://img.phimmoichillm.net/images/info/black-noise.jpg" src="https://img.phimmoichillm.net/images/info/black-noise.jpg"/>
+                                <h3>Tiếng Ồn Đen</h3>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item small">
+                            <span class="label">HD-Vietsub</span>
+                            <a title="Vùng Dơ Bẩn - The Dirty South" href="https://phimmoichillm.net/info/vung-do-ban-pm15533">
+                                <img width="238px" height="134px" class="img-2 lazyload" alt="Vùng Dơ Bẩn - The Dirty South" data-src="https://img.phimmoichillm.net/images/info/the-dirty-south.jpg" src="https://img.phimmoichillm.net/images/info/the-dirty-south.jpg"/>
+                                <h3>Vùng Dơ Bẩn</h3>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item small">
+                            <span class="label">HD-Vietsub</span>
+                            <a title="Mục Tiêu Săn Đuổi - The Painter" href="https://phimmoichillm.net/info/muc-tieu-san-duoi-pm15530">
+                                <img width="238px" height="134px" class="img-2 lazyload" alt="Mục Tiêu Săn Đuổi - The Painter" data-src="https://img.phimmoichillm.net/images/info/the-painter.jpg" src="https://img.phimmoichillm.net/images/info/the-painter.jpg"/>
+                                <h3>Mục Tiêu Săn Đuổi</h3>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item small">
+                            <span class="label">HD-Vietsub</span>
+                            <a title="Người Bạn Của Chó - Dogman" href="https://phimmoichillm.net/info/nguoi-ban-cua-cho-pm15529">
+                                <img width="238px" height="134px" class="img-2 lazyload" alt="Người Bạn Của Chó - Dogman" data-src="https://img.phimmoichillm.net/images/info/dogman.jpg" src="https://img.phimmoichillm.net/images/info/dogman.jpg"/>
+                                <h3>Người Bạn Của Chó</h3>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item small">
+                            <span class="label">HD-Vietsub</span>
+                            <a title="Cốp Xe Tử Thần - Trunk Locked" href="https://phimmoichillm.net/info/cop-xe-tu-than-pm15525">
+                                <img width="238px" height="134px" class="img-2 lazyload" alt="Cốp Xe Tử Thần - Trunk Locked" data-src="https://img.phimmoichillm.net/images/info/trunk-locked.jpg" src="https://img.phimmoichillm.net/images/info/trunk-locked.jpg"/>
+                                <h3>Cốp Xe Tử Thần</h3>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item small">
+                            <span class="label">HD-Vietsub</span>
+                            <a title="Thợ Săn Hoang Mạc - Badland Hunters" href="https://phimmoichillm.net/info/tho-san-hoang-mac-pm15524">
+                                <img width="238px" height="134px" class="img-2 lazyload" alt="Thợ Săn Hoang Mạc - Badland Hunters" data-src="https://img.phimmoichillm.net/images/info/badland-hunters.jpg" src="https://img.phimmoichillm.net/images/info/badland-hunters.jpg"/>
+                                <h3>Thợ Săn Hoang Mạc</h3>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item small">
+                            <span class="label">HD-Vietsub</span>
+                            <a title="Huyền Thoại Ferrari - Ferrari" href="https://phimmoichillm.net/info/huyen-thoai-ferrari-pm15513">
+                                <img width="238px" height="134px" class="img-2 lazyload" alt="Huyền Thoại Ferrari - Ferrari" data-src="https://img.phimmoichillm.net/images/info/ferrari.jpg" src="https://img.phimmoichillm.net/images/info/ferrari.jpg"/>
+                                <h3>Huyền Thoại Ferrari</h3>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item small">
+                            <span class="label">HD-Vietsub</span>
+                            <a title="Bơi Đêm - Night Swim" href="https://phimmoichillm.net/info/boi-dem-pm15510">
+                                <img width="238px" height="134px" class="img-2 lazyload" alt="Bơi Đêm - Night Swim" data-src="https://img.phimmoichillm.net/images/info/night-swim.jpg" src="https://img.phimmoichillm.net/images/info/night-swim.jpg"/>
+                                <h3>Bơi Đêm</h3>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item small">
+                            <span class="label">HD-Vietsub</span>
+                            <a title="Điều Ước - Wish" href="https://phimmoichillm.net/info/dieu-uoc-pm15287">
+                                <img width="238px" height="134px" class="img-2 lazyload" alt="Điều Ước - Wish" data-src="https://img.phimmoichillm.net/images/info/wish.jpg" src="https://img.phimmoichillm.net/images/info/wish.jpg"/>
+                                <h3>Điều Ước</h3>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item small">
+                            <span class="label">HD-Vietsub</span>
+                            <a title="Nhà Vịt Di Cư - Migration" href="https://phimmoichillm.net/info/nha-vit-di-cu-pm15372">
+                                <img width="238px" height="134px" class="img-2 lazyload" alt="Nhà Vịt Di Cư - Migration" data-src="https://img.phimmoichillm.net/images/info/migration.jpg" src="https://img.phimmoichillm.net/images/info/migration.jpg"/>
+                                <h3>Nhà Vịt Di Cư</h3>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item small">
+                            <span class="label">HD-Vietsub</span>
+                            <a title="Đưa Hắn Tới Đây - Bring Him to Me" href="https://phimmoichillm.net/info/dua-han-toi-day-pm15512">
+                                <img width="238px" height="134px" class="img-2 lazyload" alt="Đưa Hắn Tới Đây - Bring Him to Me" data-src="https://img.phimmoichillm.net/images/info/bring-him-to-me.jpg" src="https://img.phimmoichillm.net/images/info/bring-him-to-me.jpg"/>
+                                <h3>Đưa Hắn Tới Đây</h3>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item small">
+                            <span class="label">HD-Vietsub</span>
+                            <a title="Salaar: Phần 1 - Lệnh Ngừng Bắn - Salaar: Part 1 – Ceasefire" href="https://phimmoichillm.net/info/salaar-phan-1-lenh-ngung-ban-pm15511">
+                                <img width="238px" height="134px" class="img-2 lazyload" alt="Salaar: Phần 1 - Lệnh Ngừng Bắn - Salaar: Part 1 – Ceasefire" data-src="https://img.phimmoichillm.net/images/info/salaar-part-1-ceasefire.jpg" src="https://img.phimmoichillm.net/images/info/salaar-part-1-ceasefire.jpg"/>
+                                <h3>Salaar: Phần 1 - Lệnh Ngừng Bắn</h3>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="block">
+                    <div class="heading">
+                        <a href="genre/phim-chieu-rap">
+                            <h2 class="caption">Phim chiếu rạp mới</h2>
+                        </a>
+                        <a class="see-more" href="genre/phim-chieu-rap">
+                            Xem tất cả <i class="fa fa fa-caret-right"></i>
+                        </a>
+                        <ul class="sub-heading">
+                            <li>
+                                <a rel="nofollow" class="tab-filter" data-href="chieu-rap-2022" href="javascript:void(0)">2022</a>
+                            </li>
+                            <li>
+                                <a rel="nofollow" class="tab-filter" data-href="chieu-rap-2021" href="javascript:void(0)">2021</a>
+                            </li>
+                            <li>
+                                <a rel="nofollow" class="tab-filter" data-href="chieu-rap-2020" href="javascript:void(0)">2020</a>
+                            </li>
+                            <li>
+                                <a rel="nofollow" class="tab-filter" data-href="chieu-rap-2019" href="javascript:void(0)">2019</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <ul class="list-film horizontal">
+                        <li class="item large">
+                            <span class="label">HD-Vietsub</span>
+                            <a title="Bơi Đêm - Night Swim" href="https://phimmoichillm.net/info/boi-dem-pm15510">
+                                <img width="485px" height="273px" class="img-1 lazyload" alt="Bơi Đêm - Night Swim" data-src="https://img.phimmoichillm.net/images/info/night-swim.jpg" src="https://img.phimmoichillm.net/images/info/night-swim.jpg"/>
+                                <h3>Bơi Đêm</h3>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item small">
+                            <span class="label">HD-Vietsub</span>
+                            <a title="Điều Ước - Wish" href="https://phimmoichillm.net/info/dieu-uoc-pm15287">
+                                <img width="238px" height="134px" class="img-1 lazyload" alt="Điều Ước - Wish" data-src="https://img.phimmoichillm.net/images/info/wish.jpg" src="https://img.phimmoichillm.net/images/info/wish.jpg"/>
+                                <h3>Điều Ước</h3>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item small">
+                            <span class="label">HD-Vietsub</span>
+                            <a title="Nhà Vịt Di Cư - Migration" href="https://phimmoichillm.net/info/nha-vit-di-cu-pm15372">
+                                <img width="238px" height="134px" class="img-1 lazyload" alt="Nhà Vịt Di Cư - Migration" data-src="https://img.phimmoichillm.net/images/info/migration.jpg" src="https://img.phimmoichillm.net/images/info/migration.jpg"/>
+                                <h3>Nhà Vịt Di Cư</h3>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item small">
+                            <span class="label">HD-Vietsub</span>
+                            <a title="Aquaman 2 Và Vương Quốc Thất Lạc - Aquaman and the Lost Kingdom vietsub" href="https://phimmoichillm.net/info/aquaman-2-va-vuong-quoc-that-lac-pm9835">
+                                <img width="238px" height="134px" class="img-1 lazyload" alt="Aquaman 2 Và Vương Quốc Thất Lạc - Aquaman and the Lost Kingdom vietsub" data-src="https://img.phimmoichillm.net/images/info/aquaman-and-the-lost-kingdom-vietsub.jpg" src="https://img.phimmoichillm.net/images/info/aquaman-and-the-lost-kingdom-vietsub.jpg"/>
+                                <h3>Aquaman 2 Và Vương Quốc Thất Lạc</h3>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item small">
+                            <span class="label">HD-Vietsub</span>
+                            <a title="Wonka - Wonka" href="https://phimmoichillm.net/info/wonka-pm15499">
+                                <img width="238px" height="134px" class="img-1 lazyload" alt="Wonka - Wonka" data-src="https://img.phimmoichillm.net/images/info/wonka.jpg" src="https://img.phimmoichillm.net/images/info/wonka.jpg"/>
+                                <h3>Wonka</h3>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item small">
+                            <span class="label">HD-Vietsub</span>
+                            <a title="Cuốc Xe Chết - Hitch Hike" href="https://phimmoichillm.net/info/cuoc-xe-chet-pm15380">
+                                <img width="238px" height="134px" class="img-1 lazyload" alt="Cuốc Xe Chết - Hitch Hike" data-src="https://img.phimmoichillm.net/images/info/hitch-hike.jpg" src="https://img.phimmoichillm.net/images/info/hitch-hike.jpg"/>
+                                <h3>Cuốc Xe Chết</h3>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item small">
+                            <span class="label">HD-Vietsub</span>
+                            <a title="The Marvels - Biệt đội Marvel" href="https://phimmoichillm.net/info/the-marvels-pm14691">
+                                <img width="238px" height="134px" class="img-1 lazyload" alt="The Marvels - Biệt đội Marvel" data-src="https://img.phimmoichillm.net/images/info/biet-doi-marvel.jpg" src="https://img.phimmoichillm.net/images/info/biet-doi-marvel.jpg"/>
+                                <h3>The Marvels</h3>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item small">
+                            <span class="label">HD-Vietsub</span>
+                            <a title="Đế Chế Napoleon - Napoleon" href="https://phimmoichillm.net/info/de-che-napoleon-pm15218">
+                                <img width="238px" height="134px" class="img-1 lazyload" alt="Đế Chế Napoleon - Napoleon" data-src="https://img.phimmoichillm.net/images/info/napoleon.jpg" src="https://img.phimmoichillm.net/images/info/napoleon.jpg"/>
+                                <h3>Đế Chế Napoleon</h3>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item small">
+                            <span class="label">HD-Vietsub</span>
+                            <a title="Quỷ Dữ - Monster (Nhật Bản)" href="https://phimmoichillm.net/info/monster-pm14838">
+                                <img width="238px" height="134px" class="img-1 lazyload" alt="Quỷ Dữ - Monster (Nhật Bản)" data-src="https://img.phimmoichillm.net/images/info/monster-nhat-ban.jpg" src="https://img.phimmoichillm.net/images/info/monster-nhat-ban.jpg"/>
+                                <h3>Quỷ Dữ</h3>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item small">
+                            <span class="label">HD-Vietsub</span>
+                            <a title="Điệp Vụ Cuối Cùng - The Bricklayer" href="https://phimmoichillm.net/info/diep-vu-cuoi-cung-pm15402">
+                                <img width="238px" height="134px" class="img-1 lazyload" alt="Điệp Vụ Cuối Cùng - The Bricklayer" data-src="https://img.phimmoichillm.net/images/info/the-bricklayer.jpg" src="https://img.phimmoichillm.net/images/info/the-bricklayer.jpg"/>
+                                <h3>Điệp Vụ Cuối Cùng</h3>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item small">
+                            <span class="label">HD-Vietsub</span>
+                            <a title="Siêu Khỉ Cuồng Nộ - Ape vs Mecha Ape" href="https://phimmoichillm.net/info/sieu-khi-cuong-no-pm15355">
+                                <img width="238px" height="134px" class="img-1 lazyload" alt="Siêu Khỉ Cuồng Nộ - Ape vs Mecha Ape" data-src="https://img.phimmoichillm.net/images/info/ape-vs-mecha-ape.jpg" src="https://img.phimmoichillm.net/images/info/ape-vs-mecha-ape.jpg"/>
+                                <h3>Siêu Khỉ Cuồng Nộ</h3>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item small">
+                            <span class="label">HD-Vietsub</span>
+                            <a title="Bỗng Dưng Trúng Mánh - Good Job" href="https://phimmoichillm.net/info/bong-dung-trung-manh-a1-pm15311">
+                                <img width="238px" height="134px" class="img-1 lazyload" alt="Bỗng Dưng Trúng Mánh - Good Job" data-src="https://img.phimmoichillm.net/images/info/good-job.jpg" src="https://img.phimmoichillm.net/images/info/good-job.jpg"/>
+                                <h3>Bỗng Dưng Trúng Mánh</h3>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="block">
+                    <div class="heading">
+                        <a href="list/phim-bo">
+                            <h2 class="caption">Phim bộ mới cập nhật</h2>
+                        </a>
+                        <a class="see-more" href="list/phim-bo">
+                            Xem tất cả <i class="fa fa fa-caret-right"></i>
+                        </a>
+                        <ul class="sub-heading">
+                            <li>
+                                <a rel="nofollow" class="tab-filter" data-href="han-quoc" href="javascript:void(0)">Hàn Quốc</a>
+                            </li>
+                            <li>
+                                <a rel="nofollow" class="tab-filter" data-href="trung-quoc" href="javascript:void(0)">Trung Quốc</a>
+                            </li>
+                            <li>
+                                <a rel="nofollow" class="tab-filter" data-href="phim-my" href="javascript:void(0)">Âu - Mỹ</a>
+                            </li>
+                            <li>
+                                <a rel="nofollow" class="tab-filter" data-href="phim-bo-full" href="javascript:void(0)">Phim Bộ Full</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <ul class="list-film horizontal">
+                        <li class="item large">
+                            <span class="label">Tập 32-Vietsub</span>
+                            <a title="Tiên Kiếm Kỳ Hiệp 4 - Sword and Fairy 4" href="https://phimmoichillm.net/info/tien-kiem-ky-hiep-4-pm15456">
+                                <img width="485px" height="273px" class="img-1 lazyload" alt="Tiên Kiếm Kỳ Hiệp 4 - Sword and Fairy 4" data-src="https://img.phimmoichillm.net/images/info/sword-and-fairy-4.jpg" src="https://img.phimmoichillm.net/images/info/sword-and-fairy-4.jpg"/>
+                                <h3>Tiên Kiếm Kỳ Hiệp 4</h3>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item small">
+                            <span class="label">Tập 4-Vietsub</span>
+                            <a title="Ted - Ted (TV series)" href="https://phimmoichillm.net/info/ted-pm15508">
+                                <img width="238px" height="134px" class="img-2 lazyload" alt="Ted - Ted (TV series)" data-src="https://img.phimmoichillm.net/images/info/ted-tv-series.jpg" src="https://img.phimmoichillm.net/images/info/ted-tv-series.jpg"/>
+                                <h3>Ted</h3>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item small">
+                            <span class="label">Tập 24-Vietsub</span>
+                            <a title="Tiên Kiếm Kỳ Hiệp 6 (Kỳ Kim Triêu) - Sword and Fairy 6" href="https://phimmoichillm.net/info/tien-kiem-ky-hiep-6-ky-kim-trieu-pm15481">
+                                <img width="238px" height="134px" class="img-2 lazyload" alt="Tiên Kiếm Kỳ Hiệp 6 (Kỳ Kim Triêu) - Sword and Fairy 6" data-src="https://img.phimmoichillm.net/images/info/sword-and-fairy-6.jpg" src="https://img.phimmoichillm.net/images/info/sword-and-fairy-6.jpg"/>
+                                <h3>Tiên Kiếm Kỳ Hiệp 6 (Kỳ Kim Triêu)</h3>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item small">
+                            <span class="label">Tập 4-Vietsub</span>
+                            <a title="Đã Lâu Rồi Chưa Yêu - LTNS" href="https://phimmoichillm.net/info/da-lau-roi-chua-yeu-pm15531">
+                                <img width="238px" height="134px" class="img-2 lazyload" alt="Đã Lâu Rồi Chưa Yêu - LTNS" data-src="https://img.phimmoichillm.net/images/info/ltns.jpg" src="https://img.phimmoichillm.net/images/info/ltns.jpg"/>
+                                <h3>Đã Lâu Rồi Chưa Yêu</h3>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item small">
+                            <span class="label">Tập 9 - Vietsub</span>
+                            <a title="Cô Đi Mà Lấy Chồng Tôi - Marry My Husband" href="https://phimmoichillm.net/info/co-di-ma-lay-chong-toi-pm15375">
+                                <img width="238px" height="134px" class="img-2 lazyload" alt="Cô Đi Mà Lấy Chồng Tôi - Marry My Husband" data-src="https://img.phimmoichillm.net/images/info/marry-my-husband.jpg" src="https://img.phimmoichillm.net/images/info/marry-my-husband.jpg"/>
+                                <h3>Cô Đi Mà Lấy Chồng Tôi</h3>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item small">
+                            <span class="label">Tập 2-Vietsub</span>
+                            <a title="Tài phiệt x Cảnh sát - Flex X Cop" href="https://phimmoichillm.net/info/tai-phiet-x-canh-sat-pm15455">
+                                <img width="238px" height="134px" class="img-2 lazyload" alt="Tài phiệt x Cảnh sát - Flex X Cop" data-src="https://img.phimmoichillm.net/images/info/flex-x-cop.jpg" src="https://img.phimmoichillm.net/images/info/flex-x-cop.jpg"/>
+                                <h3>Tài phiệt x Cảnh sát</h3>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item small">
+                            <span class="label">Hoàn Tất(8/8)</span>
+                            <a title="Dragons of Wonderhatch - Rồng của Wonderhatch" href="https://phimmoichillm.net/info/dragons-of-wonderhatch-pm15527">
+                                <img width="238px" height="134px" class="img-2 lazyload" alt="Dragons of Wonderhatch - Rồng của Wonderhatch" data-src="https://img.phimmoichillm.net/images/info/rong-cua-wonderhatch.jpg" src="https://img.phimmoichillm.net/images/info/rong-cua-wonderhatch.jpg"/>
+                                <h3>Dragons of Wonderhatch</h3>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item small">
+                            <span class="label">Tập 31-Vietsub</span>
+                            <a title="Người Phiên Dịch Của Chúng Tôi - Our Interpreter" href="https://phimmoichillm.net/info/nguoi-phien-dich-cua-chung-toi-pm15413">
+                                <img width="238px" height="134px" class="img-2 lazyload" alt="Người Phiên Dịch Của Chúng Tôi - Our Interpreter" data-src="https://img.phimmoichillm.net/images/info/our-interpreter.jpg" src="https://img.phimmoichillm.net/images/info/our-interpreter.jpg"/>
+                                <h3>Người Phiên Dịch Của Chúng Tôi</h3>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item small">
+                            <span class="label">Hoàn Tất (28/28)</span>
+                            <a title="Nếu Bôn Ba Là Định Mệnh Của Tôi - Born to Run" href="https://phimmoichillm.net/info/neu-bon-ba-la-dinh-menh-cua-toi-pm15453">
+                                <img width="238px" height="134px" class="img-2 lazyload" alt="Nếu Bôn Ba Là Định Mệnh Của Tôi - Born to Run" data-src="https://img.phimmoichillm.net/images/info/born-to-run.jpg" src="https://img.phimmoichillm.net/images/info/born-to-run.jpg"/>
+                                <h3>Nếu Bôn Ba Là Định Mệnh Của Tôi</h3>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item small">
+                            <span class="label">Hoàn Tất (34/34)</span>
+                            <a title="Đấu Phá Thương Khung: Thiếu Niên Trở Về - Battle Through The Heaven" href="https://phimmoichillm.net/info/dau-pha-thuong-khung-thieu-nien-tro-ve-pm15325">
+                                <img width="238px" height="134px" class="img-2 lazyload" alt="Đấu Phá Thương Khung: Thiếu Niên Trở Về - Battle Through The Heaven" data-src="https://img.phimmoichillm.net/images/info/battle-through-the-heaven.jpg" src="https://img.phimmoichillm.net/images/info/battle-through-the-heaven.jpg"/>
+                                <h3>Đấu Phá Thương Khung: Thiếu Niên Trở Về</h3>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item small">
+                            <span class="label">Tập 11-Vietsub</span>
+                            <a title="Như Hoa Trên Cát - Like Flowers In Sand" href="https://phimmoichillm.net/info/nhu-hoa-tren-cat-pm15338">
+                                <img width="238px" height="134px" class="img-2 lazyload" alt="Như Hoa Trên Cát - Like Flowers In Sand" data-src="https://img.phimmoichillm.net/images/info/like-flowers-in-sand.jpg" src="https://img.phimmoichillm.net/images/info/like-flowers-in-sand.jpg"/>
+                                <h3>Như Hoa Trên Cát</h3>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item small">
+                            <span class="label">Tập 7-Vietsub</span>
+                            <a title="Mãi Mãi Một Tình Yêu - Love Endures" href="https://phimmoichillm.net/info/mai-mai-mot-tinh-yeu-pm15492">
+                                <img width="238px" height="134px" class="img-2 lazyload" alt="Mãi Mãi Một Tình Yêu - Love Endures" data-src="https://img.phimmoichillm.net/images/info/love-endures.jpg" src="https://img.phimmoichillm.net/images/info/love-endures.jpg"/>
+                                <h3>Mãi Mãi Một Tình Yêu</h3>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="block">
+                    <div class="heading">
+                        <a href="/list/phim-hot">
+                            <h2 class="caption">Phim Thịnh Hành</h2>
+                        </a>
+                        <a class="see-more" href="list/phim-hot">
+                            Xem tất cả <i class="fa fa fa-caret-right"></i>
+                        </a>
+                        <ul class="sub-heading">
+                            <li>
+                                <a rel="nofollow" class="tab-filter" data-href="le-thinh-hanh" href="javascript:void(0)">Phim Lẻ Thịnh Hành</a>
+                            </li>
+                            <li>
+                                <a rel="nofollow" class="tab-filter" data-href="bo-thinh-hanh" href="javascript:void(0)">Phim Bộ Thịnh Hành</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <ul class="list-film horizontal">
+                        <li class="item large">
+                            <span class="label">Tập 9 - Vietsub</span>
+                            <a title="Cô Đi Mà Lấy Chồng Tôi - Marry My Husband" href="https://phimmoichillm.net/info/co-di-ma-lay-chong-toi-pm15375">
+                                <img width="485px" height="273px" class="img-1 lazyload" alt="Cô Đi Mà Lấy Chồng Tôi - Marry My Husband" data-src="https://img.phimmoichillm.net/images/info/marry-my-husband.jpg" src="https://img.phimmoichillm.net/images/info/marry-my-husband.jpg"/>
+                                <h3>Cô Đi Mà Lấy Chồng Tôi</h3>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item small">
+                            <span class="label">HD-Vietsub</span>
+                            <a title="Aquaman 2 Và Vương Quốc Thất Lạc - Aquaman and the Lost Kingdom vietsub" href="https://phimmoichillm.net/info/aquaman-2-va-vuong-quoc-that-lac-pm9835">
+                                <img width="238px" height="134px" class="img-2 lazyload" alt="Aquaman 2 Và Vương Quốc Thất Lạc - Aquaman and the Lost Kingdom vietsub" data-src="https://img.phimmoichillm.net/images/info/aquaman-and-the-lost-kingdom-vietsub.jpg" src="https://img.phimmoichillm.net/images/info/aquaman-and-the-lost-kingdom-vietsub.jpg"/>
+                                <h3>Aquaman 2 Và Vương Quốc Thất Lạc</h3>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item small">
+                            <span class="label">HD-Vietsub</span>
+                            <a title="Thợ Săn Hoang Mạc - Badland Hunters" href="https://phimmoichillm.net/info/tho-san-hoang-mac-pm15524">
+                                <img width="238px" height="134px" class="img-2 lazyload" alt="Thợ Săn Hoang Mạc - Badland Hunters" data-src="https://img.phimmoichillm.net/images/info/badland-hunters.jpg" src="https://img.phimmoichillm.net/images/info/badland-hunters.jpg"/>
+                                <h3>Thợ Săn Hoang Mạc</h3>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item small">
+                            <span class="label">HD-Vietsub</span>
+                            <a title="Chuyện Ở Saltburn - Saltburn" href="https://phimmoichillm.net/info/chuyen-o-saltburn-pm15340">
+                                <img width="238px" height="134px" class="img-2 lazyload" alt="Chuyện Ở Saltburn - Saltburn" data-src="https://img.phimmoichillm.net/images/info/saltburn.jpg" src="https://img.phimmoichillm.net/images/info/saltburn.jpg"/>
+                                <h3>Chuyện Ở Saltburn</h3>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item small">
+                            <span class="label">Hoàn Tất (8/8)</span>
+                            <a title="Trò Chơi Tử Thần - Death*s Game" href="https://phimmoichillm.net/info/tro-choi-tu-than-pm15332">
+                                <img width="238px" height="134px" class="img-2 lazyload" alt="Trò Chơi Tử Thần - Death*s Game" data-src="https://img.phimmoichillm.net/images/info/deaths-game.jpg" src="https://img.phimmoichillm.net/images/info/deaths-game.jpg"/>
+                                <h3>Trò Chơi Tử Thần</h3>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item small">
+                            <span class="label">Hoàn Tất(8/8)</span>
+                            <a title="Reacher (Phần 2) - Reacher (Season 2)" href="https://phimmoichillm.net/info/reacher-phan-2-pm15331">
+                                <img width="238px" height="134px" class="img-2 lazyload" alt="Reacher (Phần 2) - Reacher (Season 2)" data-src="https://img.phimmoichillm.net/images/info/reacher-season-2.jpg" src="https://img.phimmoichillm.net/images/info/reacher-season-2.jpg"/>
+                                <h3>Reacher (Phần 2)</h3>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item small">
+                            <span class="label">Tập 30-Vietsub</span>
+                            <a title="Biệt Đội Tàng Hình - The Invisibles" href="https://phimmoichillm.net/info/biet-doi-tang-hinh-pm14299">
+                                <img width="238px" height="134px" class="img-2 lazyload" alt="Biệt Đội Tàng Hình - The Invisibles" data-src="https://img.phimmoichillm.net/images/info/the-invisibles-2023.jpg" src="https://img.phimmoichillm.net/images/info/the-invisibles-2023.jpg"/>
+                                <h3>Biệt Đội Tàng Hình</h3>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="block">
+                    <div class="heading">
+                        <a href="genre/phim-sap-chieu">
+                            <h2 class="caption">Phim Mới Sắp Chiếu</h2>
+                        </a>
+                        <a class="see-more" href="genre/phim-sap-chieu">
+                            Xem tất cả <i class="fa fa fa-caret-right"></i>
+                        </a>
+                    </div>
+                    <ul class="list-film horizontal">
+                        <li class="item small">
+                            <span class="label"></span>
+                            <a title="Hỉ Quyển Thường Lạc Thành - The Happy Seven in Changan" href="https://phimmoichillm.net/info/hi-quyen-thuong-lac-thanh-pm15534">
+                                <img width="238px" height="134px" class="img-2 lazyload" alt="Hỉ Quyển Thường Lạc Thành - The Happy Seven in Changan" data-src="https://img.phimmoichillm.net/images/info/the-happy-seven-in-changan.jpg" src="https://img.phimmoichillm.net/images/info/the-happy-seven-in-changan.jpg"/>
+                                <h3>Hỉ Quyển Thường Lạc Thành</h3>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item small">
+                            <span class="label"></span>
+                            <a title="Chuyến Tàu Đến Yuma - 3:10 to Yuma" href="https://phimmoichillm.net/info/chuyen-tau-den-yuma-pm15528">
+                                <img width="238px" height="134px" class="img-2 lazyload" alt="Chuyến Tàu Đến Yuma - 3:10 to Yuma" data-src="https://img.phimmoichillm.net/images/info/310-to-yuma.jpg" src="https://img.phimmoichillm.net/images/info/310-to-yuma.jpg"/>
+                                <h3>Chuyến Tàu Đến Yuma</h3>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item small">
+                            <span class="label"></span>
+                            <a title="The Marco Effect - The Marco Effect" href="https://phimmoichillm.net/info/the-marco-effect-pm15522">
+                                <img width="238px" height="134px" class="img-2 lazyload" alt="The Marco Effect - The Marco Effect" data-src="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p19208565_v_h9_ad.jpg" src="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p19208565_v_h9_ad.jpg"/>
+                                <h3>The Marco Effect</h3>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item small">
+                            <span class="label"></span>
+                            <a title="Đại Tá Wolodyjowski - Pan Wolodyjowski | Colonel Wolodyjowski" href="https://phimmoichillm.net/info/dai-ta-wolodyjowski-pm15521">
+                                <img width="238px" height="134px" class="img-2 lazyload" alt="Đại Tá Wolodyjowski - Pan Wolodyjowski | Colonel Wolodyjowski" data-src="https://img.phimmoichillm.net/images/info/pan-wolodyjowski-colonel-wolodyjowski.jpg" src="https://img.phimmoichillm.net/images/info/pan-wolodyjowski-colonel-wolodyjowski.jpg"/>
+                                <h3>Đại Tá Wolodyjowski</h3>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item small">
+                            <span class="label"></span>
+                            <a title="Huyết Hận - Blood Work" href="https://phimmoichillm.net/info/huyet-han-pm15520">
+                                <img width="238px" height="134px" class="img-2 lazyload" alt="Huyết Hận - Blood Work" data-src="https://img.phimmoichillm.net/images/info/blood-work.jpg" src="https://img.phimmoichillm.net/images/info/blood-work.jpg"/>
+                                <h3>Huyết Hận</h3>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item small">
+                            <span class="label"></span>
+                            <a title="Vòng Vây Cá Mập - No Way Up" href="https://phimmoichillm.net/info/vong-vay-ca-map-pm15514">
+                                <img width="238px" height="134px" class="img-2 lazyload" alt="Vòng Vây Cá Mập - No Way Up" data-src="https://img.phimmoichillm.net/images/info/no-way-up.jpg" src="https://img.phimmoichillm.net/images/info/no-way-up.jpg"/>
+                                <h3>Vòng Vây Cá Mập</h3>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item small">
+                            <span class="label"></span>
+                            <a title="Baby Bandito - IL Baby Bandito" href="https://phimmoichillm.net/info/baby-bandito-pm15509">
+                                <img width="238px" height="134px" class="img-2 lazyload" alt="Baby Bandito - IL Baby Bandito" data-src="https://img.phimmoichillm.net/images/info/il-baby-bandito.jpg" src="https://img.phimmoichillm.net/images/info/il-baby-bandito.jpg"/>
+                                <h3>Baby Bandito</h3>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item small">
+                            <span class="label"></span>
+                            <a title="Miêu Thám Song Kiều - Beauty Investigator" href="https://phimmoichillm.net/info/mieu-tham-song-kieu-pm15507">
+                                <img width="238px" height="134px" class="img-2 lazyload" alt="Miêu Thám Song Kiều - Beauty Investigator" data-src="https://img.phimmoichillm.net/images/info/beauty-investigator.jpg" src="https://img.phimmoichillm.net/images/info/beauty-investigator.jpg"/>
+                                <h3>Miêu Thám Song Kiều</h3>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item small">
+                            <span class="label"></span>
+                            <a title="Thế Thần: Ngự Khí Sư Cuối Cùng (Live Action) - Avatar: The Last Airbender" href="https://phimmoichillm.net/info/the-than-ngu-khi-su-cuoi-cung-live-action-pm15506">
+                                <img width="238px" height="134px" class="img-2 lazyload" alt="Thế Thần: Ngự Khí Sư Cuối Cùng (Live Action) - Avatar: The Last Airbender" data-src="https://img.phimmoichillm.net/images/info/avatar-the-last-airbender.jpg" src="https://img.phimmoichillm.net/images/info/avatar-the-last-airbender.jpg"/>
+                                <h3>Thế Thần: Ngự Khí Sư Cuối Cùng (Live Action)</h3>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                        <li class="item small">
+                            <span class="label"></span>
+                            <a title="Tình Đầu - Water Lilies" href="https://phimmoichillm.net/info/tinh-dau-pm15497">
+                                <img width="238px" height="134px" class="img-2 lazyload" alt="Tình Đầu - Water Lilies" data-src="https://img.phimmoichillm.net/images/info/water-lilies.jpg" src="https://img.phimmoichillm.net/images/info/water-lilies.jpg"/>
+                                <h3>Tình Đầu</h3>
+                                <i class="icon-play"></i>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <script src="dev/js/owl.carousel.min.js"></script>
+            <script>
+                $("#film-hot").owlCarousel({
+                    items: 5,
+                    itemsTablet: [700, 3],
+                    itemsMobile: [479, 2],
+                    scrollPerPage: true,
+                    lazyLoad: true,
+                    navigation: true,
+                    slideSpeed: 800,
+                    paginationSpeed: 400,
+                    stopOnHover: true,
+                    pagination: false,
+                    autoPlay: 8000,
+                    navigationText: ['<i class="fa fa fa-caret-left"></i>', '<i class="fa fa fa-caret-right"></i>'],
+                });
+                $("#list-channel").owlCarousel({
+                    items: 5,
+                    itemsTablet: [700, 3],
+                    itemsMobile: [479, 2],
+                    scrollPerPage: true,
+                    lazyLoad: true,
+                    navigation: true,
+                    slideSpeed: 800,
+                    paginationSpeed: 400,
+                    stopOnHover: true,
+                    pagination: false,
+                    autoPlay: 8000,
+                    navigationText: ['<i class="fa fa fa-caret-left"></i>', '<i class="fa fa fa-caret-right"></i>'],
+                });
+                function calc_height_item() {
+                    var first_height_item = $(".item.large").height();
+                    console.log(first_height_item);
+                    if (first_height_item > 0) {
+                        var height_small_item = (first_height_item - 10) / 2;
+                        $('.list-film .small a').each(function(i, obj) {
+                            $(this).height(height_small_item + 'px');
+                        });
+                        $(".list-film .large a").each(function() {
+                            $(this).height(first_height_item + 'px');
+                        })
+                    }
+                }
+                function calc_height_item_hot() {
+                    $("#film-hot .item").each(function() {
+                        var $this = $(this);
+                        var $a = $this.find('a');
+                        var width = $a.width();
+                        $a.height(width * 0.5625 + 'px');
+                    });
+                }
+                $(window).load(function() {});
+                $(window).resize(function() {});
+                $.fn.imagesLoaded = function() {
+                    var $imgs = this.find('img[src!=""]');
+                    if (!$imgs.length) {
+                        return $.Deferred().resolve().promise();
+                    }
+                    var dfds = [];
+                    $imgs.each(function() {
+                        var dfd = $.Deferred();
+                        dfds.push(dfd);
+                        var img = new Image();
+                        img.onload = function() {
+                            dfd.resolve();
+                        }
+                        ;
+                        img.onerror = function() {
+                            dfd.resolve();
+                        }
+                        ;
+                        img.src = this.src;
+                    });
+                    return $.when.apply($, dfds);
+                }
+                ;
+                $(document).ready(function() {
+                    $(".tab-filter").click(function() {
+                        var $this = $(this);
+                        var $ul = $this.parents('.block').find('.list-film.horizontal');
+                        var key = $this.attr('data-href');
+                        $this.parents('.sub-heading').find(".tab-filter").removeClass('active');
+                        $this.addClass('active');
+                        var before = function() {
+                            var $loading = '<div class="loading"></div>';
+                            $ul.append($loading);
+                        };
+                        var success = function(data) {
+                            $ul.html(data).imagesLoaded().then(function() {
+                                calc_height_item();
+                            });
+                        };
+                        handleAjax('/ajax/get_content_box', 'POST', '', {
+                            'key': key
+                        }, success, before);
+                    });
+                    function createCookie(name, value, second) {
+                        var expires;
+                        if (second) {
+                            var date = new Date();
+                            date.setTime(date.getTime() + (second * 1000));
+                            expires = "; expires=" + date.toGMTString();
+                        } else {
+                            expires = "";
+                        }
+                        document.cookie = name + "=" + value + expires + "; path=/";
+                    }
+                    function getCookie(c_name) {
+                        if (document.cookie.length > 0) {
+                            c_start = document.cookie.indexOf(c_name + "=");
+                            if (c_start != -1) {
+                                c_start = c_start + c_name.length + 1;
+                                c_end = document.cookie.indexOf(";", c_start);
+                                if (c_end == -1) {
+                                    c_end = document.cookie.length;
+                                }
+                                return unescape(document.cookie.substring(c_start, c_end));
+                            }
+                        }
+                        return "";
+                    }
+                    ;
+                })
+            </script>
+        </div>
+    </div>
+    <div id="footer">
+        <div class="container">
+            <div class="column" id="footer-logo">
+                <a href="/" title="PhimMoi">
+                    <img src="https://phimmoichillm.net/dev/images/logo.png" alt="phimmoi.net">
+                    <br>
+                </a>
+                Tận hưởng trải nghiệm xem phim mới nhất miễn phí ngay tại phimmoi và dành thời gian thư giãn chill cùng gia đình và bạn bè. Với một thư viện phim phong phú 
+            </div>
+            <div class="column contact">
+                <p>Phim Mới</p>
+                <ul>
+                    <li>
+                        <a href="https://phimmoichillm.net/genre/phim-chieu-rap" title="Phim chiếu rạp">Phim chiếu rạp</a>
+                    </li>
+                    <li>
+                        <a href="https://phimmoichillm.net/list/phim-le" title="Phim lẻ hay">Phim lẻ</a>
+                    </li>
+                    <li>
+                        <a href="https://phimmoichillm.net/list/phim-bo" title="Phim bộ hay">Phim bộ</a>
+                    </li>
+                    <li>
+                        <a href="https://phimmoichillm.net/genre/phim-hanh-dong" title="Phim hành động">Phim hành động</a>
+                    </li>
+                    <li>
+                        <a href="https://phimmoichillm.net/genre/phim-vien-tuong" title="Phim viễn tưởng">Phim viễn tưởng</a>
+                    </li>
+                    <li>
+                        <a href="https://phimmoichillm.net/genre/phim-tam-ly" title="Phim tâm lý">Phim tâm lý</a>
+                    </li>
+                    <li>
+                        <a href="https://phimmoichillm.net/genre/phim-hai-huoc" title="Phim hài hước">Phim hài hước</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="column ">
+                <p>Phim Hay</p>
+                <ul>
+                    <li>
+                        <a href="https://phimmoichillm.net/country/phim-au-my" title="Phim Mỹ">Phim Mỹ</a>
+                    </li>
+                    <li>
+                        <a href="https://phimmoichillm.net/country/phim-han-quoc" title="Phim Hàn Quốc">Phim Hàn Quốc</a>
+                    </li>
+                    <li>
+                        <a href="https://phimmoichillm.net/country/phim-trung-quoc" title="phim trung quốc">Phim Trung Quốc</a>
+                    </li>
+                    <li>
+                        <a href="https://phimmoichillm.net/country/phim-thai-lan" title="Phim Thái Lan">Phim Thái Lan</a>
+                    </li>
+                    <li>
+                        <a href="https://phimmoichillm.net/country/phim-viet-nam" title="Phim Việt Nam">Phim Việt Nam</a>
+                    </li>
+                    <li>
+                        <a href="https://phimmoichillm.net/genre/phim-ma-kinh-di" title="Phim Ma Kinh Dị">Phim Ma Kinh Dị</a>
+                    </li>
+                    <li>
+                        <a href="https://phimmoichillm.net/genre/phim-hoat-hinh" title="Phim Hoạt Hình">Phim Hoạt Hình</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="column">
+                <p>Phim Hot</p>
+                <ul>
+                    <ul>
+                        <li>
+                            <a href="../post/ve-chung-toi">Về chúng tôi</a>
+                        </li>
+                        <li>
+                            <a title="phimmoi" href="../">Phimmoi</a>
+                        </li>
+                        <li>
+                            <a title="Sitemap" href="../sitemap.xml">Sitemap</a>
+                        </li>
+                    </ul>
+                </ul>
+            </div>
+            <div class="column">
+                <p>Trợ giúp</p>
+                <ul>
+                    <li>
+                        <a rel="nofollow" href="javascript:void(0)">Hỏi đáp</a>
+                    </li>
+                    <li>
+                        <a rel="nofollow" href="https://phimmoichillm.net/post/lien-he">Liên hệ</a>
+                    </li>
+                    <li>
+                        <a rel="nofollow" href="javascript:void(0)">Tin tức</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="column">
+                <p>Thông tin</p>
+                <ul>
+                    <li>
+                        <a rel="nofollow" href="https://phimmoichillm.net/post/dieu-khoan-su-dung">Điều khoản sử dụng</a>
+                    </li>
+                    <li>
+                        <a rel="nofollow" href="https://phimmoichillm.net/post/chinh-sach-rieng-tu">Chính sách riêng tư</a>
+                    </li>
+                    <li>
+                        <a rel="nofollow" href="https://phimmoichillm.net/post/ban-quyen-va-trach-nhiem-noi-dung">Khiếu nại bản quyền</a>
+                    </li>
+                    <li>&copy;2023 PhimChill.Net</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <style>
+        .btn-xs, .btn-group-xs>.btn {
+            font-size: 14px;
+        }
+
+        .float-ck {
+            position: fixed;
+            bottom: 0;
+            z-index: 2099;
+        }
+
+        .float-top {
+            position: fixed;
+            top: 0;
+            z-index: 2099;
+        }
+
+        .catfishs-ck {
+            position: fixed;
+            bottom: 0;
+            z-index: 2099;
+        }
+
+        @media only screen and (max-width: 1025px) {
+            .hidemobile {
+                display: none !important;
+            }
+
+            #catfishs_content img {
+                width: 80%;
+                height: 100%;
+            }
+        }
+
+        @media only screen and (min-width: 1026px) {
+            .hidedesktop {
+                display:none!important;
+            }
+        }
+
+        .off a {
+            background: #01AEF0;
+            padding: 5px 10px;
+            color: #FFF;
+        }
+
+        .top-block.right-box {
+            width: 100%;
+            margin-top: 10px
+        }
+
+        .right-box-header {
+            color: orange;
+            font-size: 15px;
+            margin-bottom: 10px;
+            display: inline-block;
+            margin-top: 15px;
+        }
+
+        .box_odds {
+            background: #000;
+            position: relative;
+            padding: 5px;
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 5px
+        }
+
+        .box_odds .text-1 {
+            font-size: 12px
+        }
+
+        .box_odds .text-2 {
+            font-weight: 700;
+            font-size: 14px;
+            line-height: 130%;
+            color: #f9bc27
+        }
+
+        .box_odds .img img {
+            width: 90px;
+            padding: 5px;
+            border-radius: 4px;
+            background-color: #495262;
+            display: flex
+        }
+
+        .odds-info {
+            width: calc(100% - 115px);
+            justify-content: space-between;
+            align-self: center;
+            color: #fff;
+            padding: 5px 5px 5px 0;
+            text-align: center
+        }
+
+        .odds-info a {
+            line-height: 16px;
+            display: inline-block;
+            width: 40%;
+            padding: 4px 0;
+            border-radius: 4px;
+            font-size: 13px;
+            color: #1b273c;
+            font-weight: 700;
+            background-color: #f9bc27;
+            border: 1px solid transparent;
+            text-align: center;
+            height: 25px;
+            box-sizing: border-box
+        }
+
+        .odds-info a+a {
+            margin-left: 5px
+        }
+
+        @media (max-width: 767px) {
+            .top-block {
+                margin-top: 10px;
+                padding: 0 10px;
+            }
+
+            .right-box-header {
+                margin-bottom: 0;
+                font-size: 14px
+            }
+        }
+    </style>
+    <script>
+        function an_catfish() {
+            var content = document.getElementById('catfishs_content');
+            var hide = document.getElementById('an_catfish');
+            if (content.style.display == "none") {
+                content.style.display = "block";
+                hide.innerHTML = '<a rel="nofollow" href="javascript:an_catfish()">X</a>';
+            } else {
+                content.style.display = "none";
+                hide.style.display = "none";
+            }
+        }
+    </script>
+    <div id="pm_quangcao" style="display: block;">
+        <div class="gnarty-offads catfishs-ck" style="text-align: center; width: 100%;">
+            <div id="an_catfish" class="off">
+                <a rel="nofollow" href="javascript:an_catfish()">X</a>
+            </div>
+            <div id="catfishs_content" style="border: 0px;">
+                <div class="hidedesktop">
+                    <div id="mobiads"></div>
+                </div>
+                <div class="hidemobile">
+                    <div id="pcads"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+        jQuery(document).ready(function() {
+            document.getElementById('mobiads').innerHTML = `<a target="_blank" rel="nofollow" href="https://www.i9bet500.com/Register?a=22589"><img class="lazyload" src="/newchill/reset/i912_mb.gif" alt="i9 qc mb"> </a><br/><a target="_blank" rel="nofollow" href="https://www.i9bet500.com/Register?a=22589"><img class="lazyload" src="/newchill/reset/kingmb.gif" alt="king88 qc mb"> </a>`;
+            document.getElementById('pcads').innerHTML = `<a target="_blank" rel="nofollow" href="https://www.i9bet500.com/Register?a=22589"><img class="lazyload" src="/newchill/reset/pc_i9b.gif" alt="i9 qc" height="60px" width="728px"> </a><br/><a target="_blank" rel="nofollow" href="https://www.i9bet500.com/Register?a=22589"><img class="lazyload" src="/newchill/reset/kingpc.gif" alt="king88 qc"> </a>`;
+        });
+    </script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-119119344-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+        gtag('config', 'UA-119119344-1');
+    </script>
+    </body></html>
